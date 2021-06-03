@@ -1,0 +1,1 @@
+web: gunicorn collaborativebased_algo:app --log-file -

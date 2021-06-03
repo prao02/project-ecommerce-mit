@@ -1,0 +1,170 @@
+
+## Hello , this file contains the output for user_id 1.
+
+[
+    {
+        "id": "B00004RFK7",
+        "name": "Godrej Ezee Liquid Detergent",
+        "description": false,
+        "sub_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "parent_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "original_price": 175,
+        "currency_id": false,
+        "price_for_user": 160,
+        "currency_name": "",
+        "packagings": [
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            },
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            }
+        ]
+    },
+    {
+        "id": "B00004RFLL",
+        "name": "Mr Muscle Citrus Floor Cleaner",
+        "description": false,
+        "sub_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "parent_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "original_price": 125,
+        "currency_id": false,
+        "price_for_user": 101,
+        "currency_name": "",
+        "packagings": [
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            },
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            }
+        ]
+    },
+    {
+        "id": "B00004RFLG",
+        "name": "Wipro Maxkleen Disinfectant Floor Cleaner - Floral Bliss",
+        "description": false,
+        "sub_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "parent_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "original_price": 93,
+        "currency_id": false,
+        "price_for_user": 75,
+        "currency_name": "",
+        "packagings": [
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            },
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            }
+        ]
+    },
+    {
+        "id": "B00004RFLN",
+        "name": "Harpic Bathroom Cleaner Lemon",
+        "description": false,
+        "sub_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "parent_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "original_price": 181,
+        "currency_id": false,
+        "price_for_user": 164,
+        "currency_name": "",
+        "packagings": [
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            },
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            }
+        ]
+    },
+    {
+        "id": "B00004RDAS",
+        "name": "Amul Shrikhand Kesar",
+        "description": false,
+        "sub_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "parent_category": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "original_price": 115,
+        "currency_id": false,
+        "price_for_user": 106,
+        "currency_name": "",
+        "packagings": [
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            },
+            {
+                "Packagin_id": "",
+                "name": "",
+                "qty": ""
+            }
+        ]
+    }
+]
