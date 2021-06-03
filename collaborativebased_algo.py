@@ -11,7 +11,7 @@ import joblib
 import scipy.sparse
 from scipy.sparse import csr_matrix
 from scipy.sparse.linalg import svds
-from flask import Flask, render_template
+from flask import Flask, render_template, request,jsonify
 from flask_ngrok import run_with_ngrok
 
 app = Flask(__name__)
@@ -85,36 +85,49 @@ myclient = pymongo.MongoClient('mongodb+srv://m001-student:m001root@sandbox.3jrn
 mydb = myclient['project']
 mycol = mydb['productdata']
 
-@app.route('/<int:user_id>')
-def recommend_items(user_id):
-    # index starts at 0  
-    user_idx = user_id-1 
-    # Get and sort the user's ratings
-    sorted_user_ratings = pivot_df.iloc[user_idx].sort_values(ascending=False)
-    #sorted_user_ratings
-    sorted_user_predictions = preds_df.iloc[user_idx].sort_values(ascending=False)
-    #sorted_user_predictions
-    temp = pd.concat([sorted_user_ratings, sorted_user_predictions], axis=1)
-    temp.index.name = 'Recommended Items'
-    temp.columns = ['user_ratings', 'user_predictions']
-    temp = temp.loc[temp.user_ratings == 0]   
-    temp = temp.sort_values('user_predictions', ascending=False)
-    print('\nBelow are the recommended items for user(user_id = {}):\n'.format(user_id))
-    r_products = temp.head(5).reset_index()
-    r_products_id = r_products['Recommended Items']
-    print(r_products_id)
-    details = []
-    for x in r_products_id:
-        new_record = output.copy()
-        test = mycol.find_one({'Unique Id':x})
-        new_record['id'] =  test['Unique Id']
-        new_record['name'] = test['Name']  
-        new_record['original_price'] = test['Mrp']
-        new_record['price_for_user'] = test['Selling_Price']
-        new_record['parent_category'][0]["name"] = test['Category']
-        new_record['packagings'][0]['qty'] = test['Qty']
-        details.append(new_record)
-    return json.dumps(details)
+@app.route('/')
+def index():
+    return "<h1>Welcome to our server !!</h1>"
+
+@app.route('/getproducts/')
+def recommend_items():
+    user_id = request.args.get('user_id', None)
+    # debug
+    print(f"got userid {user_id}")
+    response = {}
+    # checking if user entered a userid:
+    if not user_id:
+        response["ERROR"] = "no userid found, please send a userid."
+        return jsonify(response)
+    # index starts at 0
+    else:
+        user_idx = int(user_id)-1
+        # Get and sort the user's ratings
+        sorted_user_ratings = pivot_df.iloc[user_idx].sort_values(ascending=False)
+        #sorted_user_ratings
+        sorted_user_predictions = preds_df.iloc[user_idx].sort_values(ascending=False)
+        #sorted_user_predictions
+        temp = pd.concat([sorted_user_ratings, sorted_user_predictions], axis=1)
+        temp.index.name = 'Recommended Items'
+        temp.columns = ['user_ratings', 'user_predictions']
+        temp = temp.loc[temp.user_ratings == 0]
+        temp = temp.sort_values('user_predictions', ascending=False)
+        print('\nBelow are the recommended items for user(user_id = {}):\n'.format(user_id))
+        r_products = temp.head(5).reset_index()
+        r_products_id = r_products['Recommended Items']
+        print(r_products_id)
+        details = []
+        for x in r_products_id:
+            new_record = output.copy()
+            test = mycol.find_one({'Unique Id': x})
+            new_record['id'] = test['Unique Id']
+            new_record['name'] = test['Name']
+            new_record['original_price'] = test['Mrp']
+            new_record['price_for_user'] = test['Selling_Price']
+            new_record['parent_category'][0]["name"] = test['Category']
+            new_record['packagings'][0]['qty'] = test['Qty']
+            details.append(new_record)
+        return json.dumps(details)
 
 if __name__ == '__main__':
     app.run(debug=True)
