@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:$PORT app:collaborative_algo
+web: gunicorn --bind 0.0.0.0:$PORT collaborative_algo:app

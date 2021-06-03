@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a10c738-a7bd-45df-b29e-5d7dbb2ccba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Review_Data.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/output_json.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/popularbased_algorithm.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collaborativebased_algo.py" beforeDir="false" afterPath="$PROJECT_DIR$/collaborativebased_algo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
