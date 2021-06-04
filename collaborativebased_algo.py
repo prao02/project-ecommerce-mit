@@ -3,6 +3,7 @@ import pandas as pd
 import math
 import json
 import time
+from copy import deepcopy
 import pymongo
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.model_selection import train_test_split
@@ -81,6 +82,21 @@ output = {
         ]
     }
 
+output2 = {
+    "categoryId": "",
+      "categoryName": "",
+      "subcategories": [
+        {
+          "id": "1",
+          "name": "",
+        },
+        {
+          "id": "2",
+          "name": "",
+        }
+      ]
+}
+
 myclient = pymongo.MongoClient('mongodb+srv://m001-student:m001root@sandbox.3jrnp.mongodb.net/project')
 mydb = myclient['project']
 mycol = mydb['productdata']
@@ -89,9 +105,9 @@ mycol = mydb['productdata']
 def index():
     return "<h1>Welcome to our server !!</h1>"
 
-@app.route('/getproducts/')
-def recommend_items():
-    user_id = request.args.get('user_id', None)
+@app.route('/<int:user_id>')
+def recommend_items(user_id):
+    # user_id = request.args.get('user_id', None)
     # debug
     print(f"got userid {user_id}")
     response = {}
@@ -118,16 +134,32 @@ def recommend_items():
         print(r_products_id)
         details = []
         for x in r_products_id:
-            new_record = output.copy()
+            new_record = deepcopy(output)
             test = mycol.find_one({'Unique Id': x})
-            new_record['id'] = test['Unique Id']
+            new_record['id'] = test['Product Id']
             new_record['name'] = test['Name']
+            new_record['sub_category'][0]['id'] = test['Category_Id']
+            new_record['sub_category'][0]['name'] = test['Category']
+            new_record['parent_category'][0]['id'] = test['Category_Id']
+            new_record['parent_category'][0]['name'] = test['Category']
             new_record['original_price'] = test['Mrp']
             new_record['price_for_user'] = test['Selling_Price']
-            new_record['parent_category'][0]["name"] = test['Category']
             new_record['packagings'][0]['qty'] = test['Qty']
             details.append(new_record)
+        # print(details)
         return json.dumps(details)
-
+@app.route('/category')
+def category():
+    user_id = request.args.get('user_id', None)
+    de = json.loads(recommend_items(user_id))
+    details2 =[]
+    for x in de:
+        print(x)
+        new_record2 = output2.copy()
+        new_record2["categoryId"] = x["parent_category"][0]['id']
+        new_record2["categoryName"] = x["parent_category"][0]['name']
+        details2.append(new_record2)
+    return json.dumps(details2)
+    
 if __name__ == '__main__':
     app.run(debug=True)
