@@ -68,6 +68,7 @@ output = {
         "currency_id": False,
         "price_for_user": "",
         "currency_name": "",
+        "imageUrl":"",
         "packagings": [
             {
                 "Packagin_id": "",
@@ -145,6 +146,7 @@ def recommend_items(user_id):
             new_record['original_price'] = test['Mrp']
             new_record['price_for_user'] = test['Selling_Price']
             new_record['packagings'][0]['qty'] = test['Qty']
+            new_record['imageUrl'] = test['ImageUrl']
             details.append(new_record)
         # print(details)
         return json.dumps(details)
