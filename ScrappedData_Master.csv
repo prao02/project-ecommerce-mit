@@ -1,0 +1,1491 @@
+Product Id,Unique Id,Name,Mrp,Selling_Price,Savings,Category_Id,Category,Qty
+1,1619920255,Premia Badam American,190,140,50,1,Groceries,200 gms
+2,1888861541,Chana Dal,105,85,20,1,Groceries,1 kg
+3,B00004OCOE,Nutraj California Almonds (Badam),599,299,300,1,Groceries,500 gms
+4,B00004S1D1,Rajma White,115,89,26,1,Groceries,500 gms
+5,B00002N5VR,Satyam Rajma Sharmili,129,115,14,1,Groceries,500 gms
+6,B00002ND67,KMK Almond Mamra (Badam),1043,570,473,1,Groceries,200 gms
+7,9178901774,Satyam Rajma Pink,126,106,20,1,Groceries,500 gms
+8,B00004RBSZ,Nuts4U Plain Almonds (Badam),599,419,180,1,Groceries,500 gms
+9,9178888107,Tata Sampann Chana Dal,64,59,5,1,Groceries,500 gms
+10,B00002N6O5,Rajma Kashmiri,82,65,17,1,Groceries,500 gms
+11,1888861509,KMK Almond American (Badam),265,145,120,1,Groceries,200 gms
+12,B00004RHRK,Satyam Chana Dal,77,67,10,1,Groceries,500 gms
+13,B00004R934,Premia Mamra Badam,583,425,158,1,Groceries,200 gm
+14,B00001P4Y4,DMart Healthy Choice Unpolished Chana Dal,123,95,28,1,Groceries,1 kg
+15,B00004S4TP,Tata Sampann 100% Organic Unpolished Chana Dal,210,178,32,1,Groceries,1 kg
+16,B00004RFLO,24 Mantra Organic Chana Dal,85,76,9,1,Groceries,500 gm
+17,9085187400,Moong Dal,155,125,30,1,Groceries,1 kg
+18,B00004S4U0,Moong Dal Chilti,79,69,10,1,Groceries,500 gms
+19,1614547831,Nutraj Cashews,699,399,300,1,Groceries,500 gms
+20,B00004R91T,Premia Regular Kaju (Cashews) - 320,607,499,108,1,Groceries,500 gms
+21,B00004OCJS,Premia Kaju Tukda (Cashews),235,190,45,1,Groceries,200 gms
+22,B00004R93O,Tata Sampann Moong Dal,185,149,36,1,Groceries,1 kg
+23,B00004R918,DMart Healthy Choice Unpolished Moong Dal,176,140,36,1,Groceries,1 kg
+24,B00004RIY6,Kokan Gem Goa Cashew Classic (Kaju),650,489,161,1,Groceries,500 gms
+25,8415193114,Chowli Premium,97,79,18,1,Groceries,500 gms
+26,B00004OCKO,Kokan Gem Goa Cashew Premium (Kaju),750,555,195,1,Groceries,500 gms
+27,B00004R944,Chowli Small,72,59,13,1,Groceries,500 gms
+28,B00004RDCR,Chowli Big,68,57,11,1,Groceries,500 gms
+29,B00004R90Z,Kalbavi Cashews (Kaju),650,439,211,1,Groceries,500 gms
+30,B00004S1BB,Premia Kaju (240) Special,287,227,60,1,Groceries,200 gms
+31,B00004RDD6,Tata Sampann Moong Chilka,93,83,10,1,Groceries,500 gms
+32,B00004OCMW,Satyam Moong Dal,109,103,6,1,Groceries,500 gms
+33,B00004OCJW,Chowli Red,70,55,15,1,Groceries,500 gms
+34,9178898609,Kokan Gem Goa Cashews Tukda,550,439,111,1,Groceries,500 gms
+35,B00004R947,Tata Sampann 100% Organic Unpolished Moong Dal,275,247,28,1,Groceries,1 kg
+36,B00004RD9Q,Premia Premium Kaju (Cashews) - 210,332,268,64,1,Groceries,200 gms
+37,0618307354,24 Mantra Organic Moong Dal,135,121,14,1,Groceries,500 gms
+38,B00004R93X,Satyam Moong Chilti,123,109,14,1,Groceries,500 gms
+39,7229004187,Organic Tattva Moong Dal Yellow Split,250,175,75,1,Groceries,1 kg
+40,B00004RC3R,Satyam Chowla,136,125,11,1,Groceries,500 gms
+41,9178893380,Organic Tattva Moong Dal Whole,120,84,36,1,Groceries,500 gms
+42,B00004RKFT,Satyam Chowla Small,103,94,9,1,Groceries,500 gms
+43,0823085511,KMK Cashew Nut (Kaju),325,189,136,1,Groceries,200 gms
+44,B00004OCNL,Tur Dal Latur,150,129,21,1,Groceries,1 kg
+45,B00004R938,Tur Dal Premium Gujarat,168,140,28,1,Groceries,1 kg
+46,B00004S1CE,Tata Sampann Toor Dal,169,145,24,1,Groceries,1 kg
+47,1574899864,DMart Healthy Choice Unpolished Toor Dal,181,148,33,1,Groceries,1 kg
+48,B00004RFJE,Premia Pista Salty (Pistachio),277,208,69,1,Groceries,200 gms
+49,B00004R90X,Premia Pista Plain (Pistachios),215,175,40,1,Groceries,100 gms
+50,0805471219,Satyam Tur (Toor) Dal,109,98,11,1,Groceries,500 gms
+51,9177121007,Tata Sampann 100% Organic Unpolished Toor Dal,240,216,24,1,Groceries,1 kg
+52,9178884462,24 Mantra Organic Tur dal,220,199,21,1,Groceries,1 kg
+53,B00004RC48,Nutraj Iranian Pistachios (Pista),449,239,210,1,Groceries,200 gms
+54,B00004OCIS,Nutrela Soya Mini Chunks,50,40,10,1,Groceries,200 gms
+55,B00004RFJR,Premia Soyawadi,44,34,10,1,Groceries,200 gms
+56,B00002NC57,Nutraj Premium California Pistachios (Pista),379,249,130,1,Groceries,200 gms
+57,B00002255K,Premia Soyabean,78,58,20,1,Groceries,500 gms
+58,917889865X,Nutrela Soya Chunks,45,39,6,1,Groceries,200 gms
+59,B00002N5VW,KMK Pista Salted Irani (Pistachios),400,205,195,1,Groceries,200 gms
+60,B00004R91B,Organic Tattva Arhar Tur Dal,240,168,72,1,Groceries,1 kg
+61,7010075417,Satyam Toor Dal Oily,109,95,14,1,Groceries,500 gms
+62,0587168978,Nutrela Soya Granules,50,39,11,1,Groceries,200 gms
+63,0439903491,Carnival Classic California Pistachios,435,349,86,1,Groceries,250 gms
+64,B00004OCOJ,Carnival Classic Pista Magaz,700,425,275,1,Groceries,250 gms
+65,B00004OCOF,KMK Pista Magaz,508,329,179,1,Groceries,200 gms
+66,7229002036,Premia Mini Soya Chunks,43,30,13,1,Groceries,200 gms
+67,9178887240,Toor Dal Oily,700,525,175,1,Groceries,5 kgs
+68,B00004S1CL,Toor Dal Plain,700,535,165,1,Groceries,5 kgs
+69,B00004RFM1,Udid (Urad) Dal,89,73,16,1,Groceries,500 gms
+70,B00004OCME,Desi Kabuli Chana,172,137,35,1,Groceries,1 kg
+71,B00004RIZ3,Udid (Urad) Whole,88,75,13,1,Groceries,500 gms
+72,B00000JGRP,Date Crown Fard (Khajur),234,185,49,1,Groceries,500 gms
+73,B00004OCNX,Emperor Dates - Deseeded Black Dates (Khajur),145,120,25,1,Groceries,500 gms
+74,B00004RHNH,Tata Sampann Urad Dal,91,83,8,1,Groceries,500 gms
+75,1574898949,Falcon UAE Dates Seedless (Khajur),185,158,27,1,Groceries,500 gms
+76,B0000223YC,Satyam Kabuli Chana,123,98,25,1,Groceries,500 gms
+77,B00004RFMY,Udid (Urad) Dal Chilti,86,72,14,1,Groceries,500 gms
+78,B00004OCLB,Date Crown Khenaizi (Khajur),234,186,48,1,Groceries,500 gms
+79,7500663463,Premia Red Dried Dates (Kharik),240,200,40,1,Groceries,500 gms
+80,B00004RFK0,Satyam Udid (Urad) Dal,123,112,11,1,Groceries,500 gms
+81,B00004S4U8,Falcon UAE Dates Seeded,145,101,44,1,Groceries,500 gms
+82,7505724355,24 Mantra Organic Kabuli Chana,145,119,26,1,Groceries,500 gms
+83,7306021354,King Solomon Medjoul Natural Dates,990,749,241,1,Groceries,500 gms
+84,1605160512,Emperor Royal Peacock Seeded Dates (Khajur),125,93,32,1,Groceries,500 gms
+85,B00004OCJ0,Emperor Dates Iranian Muzafati,170,134,36,1,Groceries,400 gms
+86,1888861290,Apis Royal Zahidi Premium Dates,116,79,37,1,Groceries,500 gms
+87,7507420027,Premia Black Dried Dates (Kharik),82,65,17,1,Groceries,200 gms
+88,B00004RFJX,Apis Deseeded Dates,135,67,68,1,Groceries,500 gms
+89,B00004RHR7,Falcon Aqaba Dates,130,86,44,1,Groceries,500 gms
+90,2042037265,Date Crown Bumaan Dates,140,94,46,1,Groceries,500 gms
+91,B00004RIYP,Falcon Zahdi Dates Seeded,120,96,24,1,Groceries,500 gms
+92,B00004RGAU,Falcon Fardh Dates,235,164,71,1,Groceries,500 gms
+93,B00004RHR2,Organic Tattva Urad Dal White Split,115,81,34,1,Groceries,500 gms
+94,B00004RFO5,King Solomon Oriental Dates,249,124,125,1,Groceries,250 gms
+95,B00004RG9U,Shamim Iranian Wet Dates,200,120,80,1,Groceries,400 gms
+96,1223071359,Apis Premium Seeded Dates,99,64,35,1,Groceries,500 gms
+97,B00004RBSY,Organic Tattva Kabuli Chana,130,91,39,1,Groceries,500 gms
+98,097736271X,Azmah Dates,625,415,210,1,Groceries,500 gms
+99,B00004RGAJ,Organic Tattva Urad Dal Whole White,115,81,34,1,Groceries,500 gms
+100,1938867459,Falcon Safawi Dates,500,350,150,1,Groceries,500 gms
+101,B00004RFNQ,Delkash Dates,650,389,261,1,Groceries,500 gms
+102,7536464428,Falcon Zahdi Dates,135,99,36,1,Groceries,400 gms
+103,B00004S1BP,Royal Delight Finest Safavi Dates,349,249,100,1,Groceries,250 gms
+104,B00004RHN2,Royal Delight Finest Mabroom Dates,399,310,89,1,Groceries,250 gms
+105,B00004R93M,Royal Delight Finest Ajwa Dates,549,409,140,1,Groceries,250 gms
+106,B00004RC4R,Royal Delight Finest Oman Dates,249,195,54,1,Groceries,400 gms
+107,9178881560,Masoor Dal,118,90,28,1,Groceries,1 kg
+108,B00004S4U1,Premia Kismis Indian (Raisins),199,155,44,1,Groceries,500 gms
+109,B00004RFNF,Chana Small,50,43,7,1,Groceries,500 gms
+110,B00004OCJY,Chana Big,58,49,9,1,Groceries,500 gms
+111,B00004RFNI,Premia Kismis Black (Raisins),90,72,18,1,Groceries,200 gms
+112,B00002N62Y,Satyam Chana Mosambi,77,69,8,1,Groceries,500 gms
+113,B00004RHNF,Premia Kismis Black Seedless,43,33,10,1,Groceries,100 gms
+114,B00004R93A,Premia Kismis Selected (Raisins),125,102,23,1,Groceries,200 gms
+115,7801457633,Satyam Masur Dal,77,65,12,1,Groceries,500 gms
+116,7807596430,KMK Black Raisins Seedless (Kismis),165,93,72,1,Groceries,200 gms
+117,B00004RDF3,Tata Sampann Masoor Dal,145,123,22,1,Groceries,1 kg
+118,9178900409,Satyam Chana Small,70,62,8,1,Groceries,500 gms
+119,B0000224FK,KMK Green Raisins Afghan (Kismis),215,123,92,1,Groceries,200 gms
+120,B00004OCM2,Tata Sampan 100% Organic Unpolished Masoor Dal,105,92,13,1,Groceries,500 gms
+121,B00004RFM0,Satyam Chana Green,119,99,20,1,Groceries,500 gms
+122,B00004RIZX,Organic Tattva Kala Chana,85,59,26,1,Groceries,500 gms
+123,B00004RFPJ,Carnival Premium Seedless Black Raisins,270,135,135,1,Groceries,250 gms
+124,B00004RC4E,24 Mantra Organic Brown Chana,75,60,15,1,Groceries,500 gms
+125,B00004OCLA,Premia Chana Small,99,80,19,1,Groceries,1 kg
+126,B00004OCML,Nutraj California Walnut Kernels (Akrod Magaj),499,329,170,1,Groceries,250 gms
+127,B00002SAO2,Nutraj California Whole Walnut (Akrod),999,409,590,1,Groceries,1 kg
+128,B00004S1CM,Premia Akrod Magaj (Walnut Kernels),239,184,55,1,Groceries,100 gms
+129,B00004OCKF,Premia Akrod Whole,123,104,19,1,Groceries,200 gms
+130,7530208659,Daliya,72,55,17,1,Groceries,500 gms
+131,B00004R91H,Udid (Urad) Black Whole,82,71,11,1,Groceries,500 gms
+132,7801793390,KMK Walnut Kernel (Akrod),315,221,94,1,Groceries,150 gms
+133,B00004RFJ2,Satyam Dalia,45,41,4,1,Groceries,200 gms
+134,B00004R92N,Satyam Udid (Urad) Whole,113,103,10,1,Groceries,500 gms
+135,B00004RC4O,KMK Walnut Shell (Whole),475,359,116,1,Groceries,500 gms
+136,B00004RFLG,Urad Dal Premium,97,83,14,1,Groceries,500 gms
+137,9178884659,Moong Whole,180,149,31,1,Groceries,1 kg
+138,B00004R92R,Mix Dal,76,65,11,1,Groceries,500 gms
+139,9178901588,Satyam Moong Whole,123,109,14,1,Groceries,500 gms
+140,3898870081,Premia Dry Apricot,159,109,50,1,Groceries,200 gms
+141,B00004OCJ6,Premia Jardalu,78,59,19,1,Groceries,100 gms
+142,B00004RDEJ,24 Mantra Organic Green Moong Whole,125,105,20,1,Groceries,500 gms
+143,B00004RGAT,Dal - Rice Mix,52,44,8,1,Groceries,500 gms
+144,9625991107,Masoor Whole,60,48,12,1,Groceries,500 gms
+145,7842953295,Premia Mixed Dry Fruits,320,249,71,1,Groceries,500 gms
+146,1932289348,Satyam Masoor Whole,80,73,7,1,Groceries,500 gms
+147,B00004OCKJ,KMK Cranberry Whole,215,130,85,1,Groceries,200 gms
+148,9621437180,KMK Mix Mewa Cut Dry Fruits,280,224,56,1,Groceries,200 gms
+149,B00004R8ZE,Carnival Cranberry Premium Whole,205,125,80,1,Groceries,200 gms
+150,9655380645,Carnival Cranberry Classic Sliced,185,125,60,1,Groceries,200 gms
+151,0756041244,Satyam Safed (White) Vatana,109,99,10,1,Groceries,500 gms
+152,B00004RC6G,Vatana Green,128,105,23,1,Groceries,500 gms
+153,9178896703,Premia Charoli,267,199,68,1,Groceries,100 gms
+154,B00004RKG1,Vatana Black,48,42,6,1,Groceries,500 gms
+155,B00004RFMS,Satyam Vatana Green,175,155,20,1,Groceries,500 gms
+156,B00004R908,Satyam Vatana Black,70,64,6,1,Groceries,500 gms
+157,B00004RFJT,Vatana White,68,58,10,1,Groceries,500 gms
+158,B00004RFNE,Makhana (Foxnuts),128,99,29,1,Groceries,100 gms
+159,B0000224FH,Matki,71,60,11,1,Groceries,500 gms
+160,B00002NBSU,Morya Phool Makhana (Fox Nuts),125,99,26,1,Groceries,100 gms
+161,B00002N621,Mixed Pulses For Sprout,67,55,12,1,Groceries,500 gms
+162,B00004S1CJ,Wal,79,68,11,1,Groceries,500 gms
+163,B00004OCLH,Satyam Math (Matki),106,95,11,1,Groceries,500 gms
+164,7800848892,Satyam Makhana,97,88,9,1,Groceries,50 gms
+165,7807262257,Mix Chana Vatana (for Sprout),66,61,5,1,Groceries,500 gms
+166,B00004RFOL,Satyam Wal Kadawa,136,133,3,1,Groceries,500 gms
+167,B00002X2IO,Wal Papdi,85,77,8,1,Groceries,500 gms
+168,B00004RGAN,Ranguni Wal,78,57,21,1,Groceries,500 gms
+169,B00004S4UK,Satyam Wal,113,99,14,1,Groceries,500 gms
+170,B00004RC3O,Matki Small,92,75,17,1,Groceries,500 gms
+171,9177129164,Nutraj Afghan Figs - Anjeer,499,299,200,1,Groceries,300 gms
+172,B00004RFKT,KMK Anjeer (Figs),500,275,225,1,Groceries,200 gms
+173,B00002N6O1,Kulith (Horse Gram),40,30,10,1,Groceries,500 gms
+174,B00004S1BW,Carnival Premium Anjeer Figs,435,349,86,1,Groceries,250 gms
+175,B00004R93Y,Premia Groundnut,196,165,31,1,Groceries,1 kg
+176,B00004RD9N,Satyam Singdana (Groundnut),109,106,3,1,Groceries,500 gms
+177,1933506105,24 Mantra Organic Peanut,125,112,13,1,Groceries,500 gms
+178,5634000076,Organic Tattva Groundnuts (Peanuts),145,102,43,1,Groceries,500 gms
+179,B00004RFK4,Premia Cow Ghee Pouch,500,425,75,1,Groceries,1 Litre
+180,B00004RD9L,Premia Sugar,51,41,10,1,Groceries,1 kg
+181,B00004S1B9,Premia Poha Jada,54,44,10,1,Groceries,1 kg
+182,B00000IZCL,Premia Jeera,54,47,7,1,Groceries,200 gms
+183,1614549168,Sakas Premium Jaggery,80,64,16,1,Groceries,900 gms
+184,9178896746,Premia Sabudana,71,64,7,1,Groceries,1 kg
+185,B00004R92G,Premia Green Elaichi,172,147,25,1,Groceries,50 gms
+186,B00004OCLX,Premia Dry Coconut,212,165,47,1,Groceries,500 gms
+187,B00004RFJI,Keshar Premium Natural Jaggery Jar,100,91,9,1,Groceries,900 gms
+188,B00004RIXH,Premia Til White,23,19,4,1,Groceries,100 gms
+189,B00004S1CA,Premia Badishep,90,58,32,1,Groceries,200 gms
+190,1559936819,Premia Black Pepper,89,65,24,1,Groceries,100 gms
+191,B00004S4UH,Premia Khaskhas,332,215,117,1,Groceries,100 gms
+192,B00004R943,Premia Ajma,59,45,14,1,Groceries,100 gms
+193,9178900743,Premia Kashmiri Chilli Powder Deluxe,210,179,31,1,Groceries,500 gms
+194,B00002NC5A,Premia Dhaniya,134,99,35,1,Groceries,400 gms
+195,B00004OCKR,Premia Green Elaichi Economy,26,22,4,1,Groceries,10 gms
+196,B00004RDAS,Jaggery,80,64,16,1,Groceries,900 gms
+197,9178898781,Premia Coconut Powder,84,64,20,1,Groceries,200 gms
+198,B00004OCMU,Premia Emli,53,41,12,1,Groceries,200 gms
+199,B00002NC60,Premia Kashmiri Chilli Powder,398,313,85,1,Groceries,1 kg
+200,B00004OCIY,Premia Cassia Taj,101,79,22,1,Groceries,100 gms
+201,9178905338,Mamra (Puffed Rice),60,36,24,1,Groceries,500 gms
+202,B00004RHRZ,Premia Dhania Powder Deluxe,79,72,7,1,Groceries,500 gms
+203,B00004RFRO,Premia Rai,33,23,10,1,Groceries,200 gms
+204,B00002NC6F,Premia Poha Patla,30,25,5,1,Groceries,500 gms
+205,B00002NBZI,Premia Haldi Powder Deluxe,32,28,4,1,Groceries,200 gms
+206,B00004RDDM,Premia Dhaniya Dal,38,30,8,1,Groceries,100 gms
+207,7562036497,Premia Bedgi Chilli,74,65,9,1,Groceries,100 gms
+208,B00004R91E,Premia Lukhnowi Badishep,42,35,7,1,Groceries,100 gms
+209,B00004RBT0,Premia Roasted Badishep,27,23,4,1,Groceries,100 gms
+210,B00002N63A,Premia Sabudana Small,41,34,7,1,Groceries,500 gms
+211,B00004OCI6,Premia Star Anise (Badiyan),344,215,129,1,Groceries,100 gms
+212,B00004S4UX,Premia Poha Basmati,39,36,3,1,Groceries,500 gms
+213,7509004195,Premia Malwani Masala Deluxe,78,67,11,1,Groceries,200 gms
+214,B00004RFMB,Premia Black Pepper Powder,83,75,8,1,Groceries,100 gms
+215,9178892961,Premia Rai Small,29,22,7,1,Groceries,200 gms
+216,B00004RFQ4,Premia Amchur Powder,40,25,15,1,Groceries,100 gms
+217,B00004RHOJ,Kolhapuri Surati Kurmura,80,40,40,1,Groceries,500 gms
+218,7544236293,Premia Masala Elaichi,162,132,30,1,Groceries,100 gms
+219,B00004OCJ9,Premia Garam Masala Powder Deluxe,56,51,5,1,Groceries,100 gms
+220,B00004R940,Premia Methi,16,13,3,1,Groceries,100 gms
+221,B00004RFNW,Laxmi Jaya Kurmura,60,30,30,1,Groceries,500 gms
+222,9178903130,Premia Jeera Powder Deluxe,32,26,6,1,Groceries,100 gms
+223,917888473X,Premia Alsi,18,13,5,1,Groceries,100 gms
+224,B00004OCMG,Premia Guntur Chilli,41,32,9,1,Groceries,100 gms
+225,B00004R92B,Premia Kasoori Methi,45,27,18,1,Groceries,100 gms
+226,B00002NBT9,Premia Lawang,29,17,12,1,Groceries,20 gms
+227,B00004S4UT,Premia Jaipatri (Mace),117,95,22,1,Groceries,20 gms
+228,B00004RIXT,Premia Jaifal,62,40,22,1,Groceries,4 U
+229,B00004RDAZ,Premia Ginger Powder,48,44,4,1,Groceries,100 gms
+230,9178904110,Premia Til Black,36,29,7,1,Groceries,100 gms
+231,B00004RDDN,Premia Shaha Jeera,43,34,9,1,Groceries,50 gms
+232,B00002N62X,Premia Amsul Wet Kokam,62,46,16,1,Groceries,200 gms
+233,B00004OCOR,Premia Dhania Powder,35,32,3,1,Groceries,200 gms
+234,B00004R917,Premia Sugar Crystals (Khadi Shakkar),17,14,3,1,Groceries,200 gms
+235,B00004RFKK,Premia Dinkh (Edible Gum),29,20,9,1,Groceries,100 gms
+236,B00002NC6D,Premia Tej Patta,19,12,7,1,Groceries,50 gms
+237,B00004OCLF,Premia Sabja,45,36,9,1,Groceries,100 gms
+238,B00004RFOG,Premia Dhania Jeera Mix Khandela,21,18,3,1,Groceries,100 gms
+239,B00004R923,Zele Kolhapuri Masala Bhadang,45,31,14,1,Groceries,200 gms
+240,B00004R91W,Premia Eating Soda,17,16,1,1,Groceries,200 gms
+241,B00004R8ZO,Premia Dry Ginger (Sunth),69,62,7,1,Groceries,100 gms
+242,B00004S1CZ,Premia Sunday Mix Masala,74,67,7,1,Groceries,200 gms
+243,B00004RHRD,Premia Sugar Candy,25,18,7,1,Groceries,200 gms
+244,B00004RFO9,Premia Kalvanji,50,39,11,1,Groceries,100 gms
+245,7802215811,Premia Kokam Rind Lonavala,53,35,18,1,Groceries,100 gms
+246,B00004RFLA,Miki Maize (Makai) Poha,42,27,15,1,Groceries,500 gms
+247,B00002N8DG,Zele Kolhapuri Bhadang Kurmura Sadha,35,24,11,1,Groceries,200 gms
+248,B00004RKFR,Premia Dagad Phool (Black Stone Flower),69,46,23,1,Groceries,50 gms
+249,B00004RHNT,Premia Reshampatti Chilli Khandela,143,114,29,1,Groceries,500 gms
+250,B00004RC3D,Premia Sakariya,18,14,4,1,Groceries,200 gms
+251,B00004OCNN,Premia Halim,19,14,5,1,Groceries,100 gms
+252,7802087791,Premia Nimbu Phool (Citric Acid),15,10,5,1,Groceries,50 gms
+253,B00004R92P,Premia Dhania Khandela,19,17,2,1,Groceries,100 gms
+254,B00004S4U3,Fortune Sunlite Refined Sunflower Oil,245,179,66,1,Groceries,1 Litre
+255,B00004RFNG,Gemini Refined Sunflower Oil,1155,930,225,1,Groceries,5 Litres
+256,B00002N5ZJ,Fortune Refined Sunflower Oil Tin,4025,2665,1360,1,Groceries,15 Litres
+257,B00004S1ZU,Sunrich Refined Sunflower Oil,209,175,34,1,Groceries,1 Litre
+258,B00004RFOD,Sunday Refined Sunflower Oil,210,170,40,1,Groceries,1 Litre
+259,B00004R92D,Swaad Refined Sunflower Oil,190,169,21,1,Groceries,1 Litre
+260,B00004RFNX,Fortune Sunlite Refined Sunflower Oil,3275,2799,476,1,Groceries,15 Litres
+261,B00004RFJ0,Dhara Refined Sunflower Oil,3345,2705,640,1,Groceries,15 Litres
+262,B00004R94J,Sunday Refined Sunflower Oil Jar With Tap,3100,2715,385,1,Groceries,15 Litres
+263,B00004OCMK,Gemini Refined Sunflower Oil,3300,2810,490,1,Groceries,15 Litres
+264,7530652702,Dhara Nourish Refined Sunflower Oil,1325,930,395,1,Groceries,5 Litres
+265,B00004RFMJ,Sunny Sun Lite Refined Sunflower Oil,225,173,52,1,Groceries,1 Litre
+266,B00004RG9B,Godrej Refined Sunflower Oil,3250,2710,540,1,Groceries,15 Litres
+267,B00004RDD0,Sunny Sun Lite Refined Sunflower Oil Jar,3240,2635,605,1,Groceries,15 Litres
+268,9398900203,Sundrop Superlite Advanced Sunflower Oil,1340,1246,94,1,Groceries,5 Litres
+269,B00004RKG6,Sunny Sun Lite Refined Sunflower Oil,1170,860,310,1,Groceries,5 Litres
+270,B00002N86J,Saffola Gold Oil,1198,1113,85,1,Groceries,5 Litres
+271,9178900549,Saffola Gold Oil,3020,2990,30,1,Groceries,15 Litres
+272,7111269535,Saffola Active Oil,3070,2799,271,1,Groceries,15 Litres
+273,B00004RFLP,Saffola Active Oil,1020,920,100,1,Groceries,5 Litres
+274,B00004RFM4,Saffola Total Oil,1210,1064,146,1,Groceries,5 Litres
+275,9178883857,Fortune Vivo Blended Oil,825,765,60,1,Groceries,5 Litres
+276,9178902460,Fortune Rice Bran Health Oil,2950,2675,275,1,Groceries,15 Litres
+277,1848415664,Fortune Rice Bran Health Oil,195,172,23,1,Groceries,1 Litre
+278,B00002N6O3,Dhara Refined Rice Bran Oil,1175,865,310,1,Groceries,5 Litres
+279,B00004R91L,Riso Ricebran Oil,195,165,30,1,Groceries,1 Litre
+280,B00004RDAU,Dhara Life Refined Rice Bran Oil,230,175,55,1,Groceries,1 Litre
+281,1574891936,Svity Kolam Physically Refined Rice Bran Oil,175,140,35,1,Groceries,1 Litre
+282,1888861576,Gemini Rice Bran Oil,175,165,10,1,Groceries,1 Litre
+283,B00004RC6H,Gulab Filtered Groundnut Oil,3827,2750,1077,1,Groceries,15 Litres
+284,B00004RBTH,Guinea Filtered Groundnut Oil,3400,2849,551,1,Groceries,15 Litres
+285,1934521019,Gulab Filtered Groundnut Oil,252,179,73,1,Groceries,1 Litre
+286,B00004RFKO,Dhara Filtered Groundnut Oil Pouch,255,195,60,1,Groceries,1 Litre
+287,B00004S4UA,Guinea Filtered Groundnut Oil,1270,1190,80,1,Groceries,5 Litres
+288,B00004R91Q,Fortune Filtered Groundnut Oil,240,189,51,1,Groceries,1 Litre
+289,B00004S4UU,RRO Primio Refined Groundnut Oil,1250,1080,170,1,Groceries,5 Litres
+290,1888861150,Guinea Lite Groundnut Oil,1270,1175,95,1,Groceries,5 Litres
+291,B00004RDF2,RRO Primio Gold Filtered Groundnut Oil,230,159,71,1,Groceries,1 Litre
+292,B00004S4VE,RRO Primio Gold Filtered Groundnut Oil,1150,899,251,1,Groceries,5 Litres
+293,9177124472,Gramiyaa Wood Cold Pressed Coconut Oil,180,140,40,1,Groceries,500 ml
+294,B00004RIY9,Gramiyaa Wood Cold Pressed Groundnut Oil,290,230,60,1,Groceries,1 Litre
+295,7801128923,Del Monte Extra Light Olive Oil,2400,880,1520,1,Groceries,2 Litres
+296,1891747401,Borges Extra Light Olive Oil,2600,1099,1501,1,Groceries,2 Litres
+297,8803000852,Borges Extra Virgin Olive Oil,1400,777,623,1,Groceries,1 Litre
+298,B00002N634,Figaro Pure Olive Oil Tin,925,749,176,1,Groceries,1 Litre
+299,B00004RIXI,Leonardo Extra Light Olive Oil,2599,949,1650,1,Groceries,2 Litres
+300,B00004R93D,Borges Pure Olive Oil - Classic,1350,666,684,1,Groceries,1 Litre
+301,B00004RGAW,Figaro Extra Virgin Olive Oil,599,465,134,1,Groceries,500 ml
+302,B00004RDEA,Fortune Kachi Ghani Mustard Oil,220,186,34,1,Groceries,1 Litre
+303,1586626310,Fortune Kachi Ghani Mustard Oil Bottle,224,185,39,1,Groceries,1 Litre
+304,9178892023,Tez Mustard Kachchi Ghani Oil Pouch,216,188,28,1,Groceries,1 Litre
+305,B00002N6O2,RRO Mastdil Premium Mustard Oil Bottle,215,178,37,1,Groceries,1 Litre
+306,0705342913,Ruchi Gold Refined Palm Oil,170,141,29,1,Groceries,1 Litre
+307,B00004R8ZC,KLF Coconad 100% Pure Coconut Oil,330,249,81,1,Groceries,1 Litre
+308,161659120X,Tilsona Til Oil Bottle,339,295,44,1,Groceries,1 Litre
+309,B00004S4V5,Swaad Soyabean Oil,170,155,15,1,Groceries,1 Litre
+310,B00004R92T,Fortune Plus Soya Health Oil,210,165,45,1,Groceries,1 Litre
+311,B00004S1CR,RRO Til Dil Premium Til Oil Bottle,325,268,57,1,Groceries,1 Litre
+312,B00004RFPO,Idhayam Gingelly Oil,287,279,8,1,Groceries,1 Litre
+313,B00004S1D4,Idhayam Sesame Oil Bottle,304,280,24,1,Groceries,1 Litre
+314,B00004RFQG,Coco Soul Virgin Coconut Oil,399,270,129,1,Groceries,500 ml
+315,B00002N8DF,Gramiyaa Wood Cold Pressed Sesame Oil,260,205,55,1,Groceries,500 ml
+316,B00004R91J,Gowardhan Pure Cow Ghee Pouch,579,499,80,1,Groceries,1 Litre
+317,B00004RC59,Amul Pure Ghee Pouch,485,450,35,1,Groceries,1 Litre
+318,B00004S1DP,Prabhat Dairy Cow Ghee Pouch,590,419,171,1,Groceries,1 Litre
+319,B00004OCK0,Nandini Pure Ghee Pouch,470,425,45,1,Groceries,1 Litre
+320,B00004OCKH,Gowardhan Cow Ghee,599,525,74,1,Groceries,1 Litre
+321,B00000JB91,Amul Cow Ghee Pouch,500,465,35,1,Groceries,1 Litre
+322,B00004OCOW,Patanjali Cow Ghee,295,295,,1,Groceries,500 ml
+323,8803000844,Sagar Pure Ghee Pouch,485,455,30,1,Groceries,1 Litre
+324,B00004R914,Dynamix Cow Ghee Pouch,550,475,75,1,Groceries,1 Litre
+325,B00004S4V2,Chitale Dairy Cow Ghee Box,550,511,39,1,Groceries,1 Litre
+326,B00004RFLM,Amul Pure Ghee Tin,500,470,30,1,Groceries,1 Litre
+327,B00004RFMC,Chitale Dairy Ghee Box,290,269,21,1,Groceries,500 ml
+328,1621522172,Aabad Desi Cow Ghee Pouch,579,375,204,1,Groceries,1 Litre
+329,B00004RFRK,Vijaya Pure Ghee Pouch,510,460,50,1,Groceries,1 Litre
+330,B00004S1D0,Amul Cow Ghee Tin,515,485,30,1,Groceries,1 Litre
+331,6025005478,Sagar Pure Ghee Tin,2450,2325,125,1,Groceries,5 Litres
+332,9085184282,Govind Pure Ghee Pouch,570,449,121,1,Groceries,1 Litre
+333,B00004RHR6,Gowardhan Cow Ghee Tin,2900,2529,371,1,Groceries,5 Litres
+334,B00004RDB2,Dynamix Cow Ghee Jar,565,499,66,1,Groceries,1 Litre
+335,B00004RFLL,Amul Pure Ghee Jar,255,237,18,1,Groceries,500 ml
+336,B00002N6YH,Dynamix Cow Ghee Tin,2750,2435,315,1,Groceries,5 Litres
+337,B00004S4UE,Organic India Organic Cow Ghee,650,585,65,1,Groceries,500 ml
+338,B00004S1DU,Parsi Dairy Farm Cow Ghee Jar,520,435,85,1,Groceries,500 ml
+339,B00004RDAH,Dynamix Cow Ghee Jar,127,112,15,1,Groceries,200 ml
+340,917889669X,Dalda Vanaspati,105,78,27,1,Groceries,500 ml
+341,B00004RB4W,Godrej Vanaspati,185,147,38,1,Groceries,1 Litre
+342,B00004RHR0,Aashirvaad Superior MP Atta,450,365,85,1,Groceries,10 kgs
+343,B00004RGAY,Aashirvaad Select Sharbati Wheat Atta,295,244,51,1,Groceries,5 kgs
+344,9178886139,Nature Fresh Sampoorna Superior MP Atta,450,320,130,1,Groceries,10 kgs
+345,B00004RFN4,Aashirvaad Multigrain Atta,305,252,53,1,Groceries,5 kgs
+346,B00004RDA2,Fortune Chakki Fresh Atta,410,320,90,1,Groceries,10 kgs
+347,B00004S4U6,Pillsbury Chakki Fresh Atta,450,335,115,1,Groceries,10 kgs
+348,7115172463,Taste For Life MP Sihore Chapati Fine Wheat Atta,81,75,6,1,Groceries,1 kg
+349,9178892767,24 Mantra Organic Whole Wheat Atta,290,261,29,1,Groceries,5 kgs
+350,B00004RDF0,Pillsbury Multi Grain Atta,295,232,63,1,Groceries,5 kgs
+351,B00004RHQ9,24 Mantra Organic Ragi Flour,70,63,7,1,Groceries,500 gms
+352,B00004RGBF,24 Mantra Organic Jowar Flour,70,63,7,1,Groceries,500 gms
+353,B00004OCMH,Wheat Flour Chakki Atta,225,145,80,1,Groceries,5 kgs
+354,1600223583,Organic Tattva Organic Wheat Flour,300,199,101,1,Groceries,5 kgs
+355,0587217189,Premia Rice Atta,38,29,9,1,Groceries,1 kg
+356,B00002NBX4,Wheat Lokvan,250,185,65,1,Groceries,5 kgs
+357,B00004RFKY,Satyam Sabudana,50,45,5,1,Groceries,500 gms
+358,B00004OCN7,Nachni,52,45,7,1,Groceries,1 kg
+359,B00004RFKZ,Bajari,38,33,5,1,Groceries,1 kg
+360,B00004S1DB,Makai For Popcorn,31,24,7,1,Groceries,200 gms
+361,B00004S4V7,Organic India Quinoa,295,265,30,1,Groceries,500 gms
+362,B00004RFOH,Satyam Lapsi Medium,35,32,3,1,Groceries,500 gms
+363,B00004S4UB,Satyam Barley,12,11,1,1,Groceries,100 gms
+364,B00004RFJH,Bhagirathi Ragi Malt With Sugar,45,40,5,1,Groceries,200 gms
+365,160516061X,Pink Harvest Farms White Quinoa,175,87,88,1,Groceries,500 gms
+366,B00004OCOU,DMart Healthy Choice Foxtail Millet,44,35,9,1,Groceries,500 gms
+367,9178903203,Rava,42,38,4,1,Groceries,1 kg
+368,B00004R91Z,Besan,96,80,16,1,Groceries,1 kg
+369,B00004R93F,Fortune Chana Dal Besan,120,91,29,1,Groceries,1 kg
+370,B00004S4V0,Lapsi Rava Small Daliya,27,23,4,1,Groceries,500 gms
+371,B00004RIZM,Lapsi Rava / Daliya,28,24,4,1,Groceries,500 gms
+372,B00000JGRQ,Rice Atta,20,15,5,1,Groceries,500 gms
+373,1888861231,Satyam Rava,31,28,3,1,Groceries,500 gms
+374,B00004RFMR,Jawari Atta,32,30,2,1,Groceries,500 gms
+375,B00004RG9P,Tata Sampann Fine Besan,125,114,11,1,Groceries,1 kg
+376,B00004RGAQ,Satyam Besan,70,62,8,1,Groceries,500 gms
+377,9085187397,Nachni Atta,38,28,10,1,Groceries,500 gms
+378,B00004RHN0,Bajari Atta,27,20,7,1,Groceries,500 gms
+379,B00004RHPU,Satyam Maida,28,25,3,1,Groceries,500 gms
+380,9178897645,Bhagirathi Thalipeeth Bhajni,40,36,4,1,Groceries,200 gms
+381,B00004RHRJ,Satyam Rajgira Flour,83,76,7,1,Groceries,500 gms
+382,B00004RFRP,Bhagirathi Jowar Atta,50,45,5,1,Groceries,500 gms
+383,B00004OCKK,Blue Bird Corn Flour,70,58,12,1,Groceries,500 gms
+384,B00002N636,Bhagirathi Bajra Atta,38,34,4,1,Groceries,500 gms
+385,9085184681,Bhagirathi Nachani (Ragi) Atta,50,45,5,1,Groceries,500 gms
+386,8390294540,Bhagirathi Rice Atta,32,28,4,1,Groceries,500 gms
+387,0740794108,Bhagirathi Makai (Corn) Flour,38,34,4,1,Groceries,500 gms
+388,9178899443,Bhagirathi Rajgira Atta,55,49,6,1,Groceries,200 gms
+389,B00004RFNM,Bhagirathi Upwas Bhajani,55,49,6,1,Groceries,200 gms
+390,B00004RC5H,Makai Atta,21,15,6,1,Groceries,500 gms
+391,B00004RDEB,Bhagirathi Shingada Atta,110,89,21,1,Groceries,200 gms
+392,B00004RDDW,Satyam Rice Atta (Flour),33,30,3,1,Groceries,500 gms
+393,780742432X,Bhagirathi Sattu Atta,49,39,10,1,Groceries,200 gms
+394,B00004RHMO,Bhagirathi Multigrain Bhakari Atta,50,38,12,1,Groceries,500 gms
+395,7115156093,Bhagirathi Wade Peeth,80,71,9,1,Groceries,500 gms
+396,B00004OCOT,Bhagirathi Nachni Satva Plain,43,34,9,1,Groceries,200 gms
+397,9178886295,Bedekar Shingada Pith,130,109,21,1,Groceries,200 gms
+398,B00004RFM3,Agrawal's 420 Special Masala Mix Bedmi Puri Atta,80,60,20,1,Groceries,500 gms
+399,B00004RDCT,India Gate Basmati Rice - Feast Rozzana,450,370,80,1,Groceries,5 kgs
+400,9178902037,Daawat Rozana Super Basmati Rice,390,309,81,1,Groceries,5 kgs
+401,7544500179,Kohinoor Royale Authentic Biryani Basmati Rice,925,499,426,1,Groceries,5 kgs
+402,B00004RFPK,Daawat Devaaya Basmati Rice,520,409,111,1,Groceries,5 kgs
+403,B00004R946,Basmati Rice Mogra,720,405,315,1,Groceries,10 kgs
+404,1888861266,India Gate Mini Mogra Basmati Rice,515,395,120,1,Groceries,10 kgs
+405,1412758181,India Gate Super Basmati Rice,905,619,286,1,Groceries,5 kgs
+406,B00004OCM4,Kohinoor Charminar Select - Basmati Rice,569,379,190,1,Groceries,5 kgs
+407,B00004RC3X,Fortune Everyday Hamesha Basmati Rice,425,325,100,1,Groceries,5 kgs
+408,B00004OCJH,Basmati Rice Broken (Kani),375,332,43,1,Groceries,10 kgs
+409,9178905087,Kohinoor Extra Long Basmati Rice - Gold,209,120,89,1,Groceries,1 kg
+410,B00004RBTM,Daawat Heritage Daily Feast Basmati Rice,399,205,194,1,Groceries,5 kgs
+411,B00004S1DW,Daawat Sehat Mini Mogra Basmati Rice,255,195,60,1,Groceries,5 kgs
+412,B00004RFPM,Rice Pulav Basmati,500,270,230,1,Groceries,5 kgs
+413,B00002NBTS,Daawat Biryani Basmati Rice,220,165,55,1,Groceries,1 kg
+414,0615391206,India Gate Basmati Rice - Mini Mogra-II - Kanki,380,295,85,1,Groceries,10 kgs
+415,0740794078,Daawat Rozana Basmati Rice - Gold,450,359,91,1,Groceries,5 kgs
+416,986692324X,Daawat Super Basmati Rice,845,650,195,1,Groceries,5 kgs
+417,B00004RC4C,India Gate Basmati Rice - Mogra,305,279,26,1,Groceries,5 kgs
+418,B00004RDEL,India Gate Basmati Rice - Tibar,605,516,89,1,Groceries,5 kgs
+419,B00004RFNP,Daawat Pulav Basmati Rice,125,99,26,1,Groceries,1 kg
+420,9178909309,Basmati Rice Mini Mogra,530,311,219,1,Groceries,10 kgs
+421,B00004S1D5,Mogra Basmati Rice,280,235,45,1,Groceries,5 kgs
+422,B00004RFPY,India Gate Basmati Rice - Classic,1055,942,113,1,Groceries,5 kgs
+423,B00004R94I,Daawat Brown Basmati Rice,165,135,30,1,Groceries,1 kg
+424,9178892082,GB Rice Basmati Tukda (Dubar),400,242,158,1,Groceries,5 kgs
+425,B00004RC57,India Gate Basmati Rice - Dubar,118,95,23,1,Groceries,1 kg
+426,B00000JGRO,Rice Tibar Basmati,600,315,285,1,Groceries,5 kgs
+427,B00002N62W,Basmati Rice,96,87,9,1,Groceries,1 kg
+428,B00004RFJ5,Daawat Pulav Basmati Rice,600,489,111,1,Groceries,5 kgs
+429,B00004R912,Daawat Traditional Basmati Rice,210,186,24,1,Groceries,1 kg
+430,B00004RFN0,Kohinoor Traditional Authentic Aged Basmati Rice,1055,893,162,1,Groceries,5 Kgs
+431,B00004OCMB,India Gate Regular Choice Basmati Rice,380,349,31,1,Groceries,5 kgs
+432,B00004RKFS,Kohinoor Charminar Everyday Basmati Rice,445,299,146,1,Groceries,5 kgs
+433,B00004S1DO,Rice Wand Basmati,700,385,315,1,Groceries,5 kgs
+434,1450838049,Kohinoor Charminar - Rozana Basmati Rice,515,349,166,1,Groceries,5 kgs
+435,B00004RDF4,Wada Kolam Sorted Rice,850,615,235,1,Groceries,10 kgs
+436,B00001U0QR,Lachkari Silky Kolam Sorted Rice,460,284,176,1,Groceries,5 kgs
+437,B0000223Z9,Rice HMT Kolam Sorted Rice,410,270,140,1,Groceries,5 kgs
+438,B00002N8D5,Rice Eco Kolam Sorted Rice,260,209,51,1,Groceries,5 kgs
+439,B00004RBT2,24 Mantra Organic Sonamasuri Brown Rice,95,85,10,1,Groceries,1 kg
+440,B00004OCJ3,Satyam Poha Jada,35,32,3,1,Groceries,500 gms
+441,B00000JGRS,Tata Sampann Poha,44,42,2,1,Groceries,500 gms
+442,B00004RFQJ,24 Mantra Organic Red Poha,75,67,8,1,Groceries,500 gms
+443,B00004OCM5,Satyam Poha (Powa) Patla,38,35,3,1,Groceries,500 gms
+444,B00002N8D1,24 Mantra Organic Poha,68,61,7,1,Groceries,500 gm
+445,9085188296,Organic Tattva Red Poha,80,56,24,1,Groceries,500 gms
+446,B00004RFKD,Ambemohar Rice,650,499,151,1,Groceries,5 kgs
+447,B00004OCIW,Idli Rice,56,47,9,1,Groceries,1 kg
+448,095650843X,Kohinoor Charminar Long Grain Rice,549,259,290,1,Groceries,5 kgs
+449,B00004RFNT,Red Rice,59,52,7,1,Groceries,1 kg
+450,B00004S4VI,IR Boiled Rice,44,39,5,1,Groceries,1 kg
+451,B00004RDB0,Long Grain Rice,560,435,125,1,Groceries,10 kgs
+452,B00004S4TT,Masoori Boiled Rice,48,45,3,1,Groceries,1 kg
+453,0740794167,Satyam Sama,93,79,14,1,Groceries,500 gms
+454,B00002NBSK,Vandevi Hing Powder,136,68,68,1,Groceries,100 gms
+455,7300019196,Everest Garam Masala,80,66,14,1,Groceries,100 gms
+456,B00004OCJD,Everest Tikhalal Chilli Powder,94,82,12,1,Groceries,200 gms
+457,B00004RFJF,Everest Pav Bhaji Masala,66,59,7,1,Groceries,100 gms
+458,917888893X,Ramdev Strong Hing,240,194,46,1,Groceries,100 gms
+459,B00004OCO9,Premia Hing Powder,75,45,30,1,Groceries,50 gms
+460,B00004RC47,LG Hing,304,272,32,1,Groceries,200 gms
+461,B00004OCMR,Everest Chaat Masala,65,55,10,1,Groceries,100 gms
+462,B0000223B7,Maggi Masala-A-Magic,58,52,6,1,Groceries,72 gms
+463,B00002N83J,Everest Kashmirilal Red Chilli Powder,78,68,10,1,Groceries,100 gms
+464,0705394492,Everest Shahi Biryani Masala,70,63,7,1,Groceries,50 gms
+465,B00004R93K,Everest Kitchen King Masala,65,58,7,1,Groceries,100 gms
+466,B00002NC61,Everest Turmeric Powder,62,55,7,1,Groceries,200 gms
+467,B00004RBTB,Vandevi Hing 2001 Powder,162,125,37,1,Groceries,100 gms
+468,B00004OCIP,Everest Coriander Powder,62,50,12,1,Groceries,200 gms
+469,B00004RDAD,Everest Tea Masala,98,88,10,1,Groceries,100 gms
+470,9178897327,Premia Red Chilli Powder,44,44,,1,Groceries,200 gms
+471,B00002NC6G,Everest Yellow Hing Powder,130,117,13,1,Groceries,100 gms
+472,1842104322,MTR Sambar Powder,120,99,21,1,Groceries,200 gms
+473,B00004RC46,Tata Sampann Turmeric Powder,62,56,6,1,Groceries,200 gms
+474,B00004RFM6,Everest Sambhar Masala,34,30,4,1,Groceries,50 gms
+475,B00004RFLK,Suhana Paneer Tikka Mix Masala,40,29,11,1,Groceries,50 gms
+476,B00004RFJU,Everest Meat Masala,72,65,7,1,Groceries,100 gms
+477,B00004RDC0,Everest Chicken Masala,38,34,4,1,Groceries,50 gms
+478,B00004OCJU,Snapin Chilli Flakes Spice,65,52,13,1,Groceries,35 gms
+479,B00004RC4H,Badshah Hing Compounded,75,37,38,1,Groceries,50 gms
+480,B00004RBTE,Suhana Paneer Butter Masala Mix,40,29,11,1,Groceries,50 gms
+481,B00004RC6F,Everest Tandoori Chicken Masala,72,64,8,1,Groceries,100 gms
+482,B00004RFKU,Kubal Sunday Malvani Masala,145,72,73,1,Groceries,200 gms
+483,B00004OCKU,Everest Chhole Masala,33,29,4,1,Groceries,50 gms
+484,B00004RGAV,Badshah Mumbai Bhaji Pav Masala,72,45,27,1,Groceries,100 gms
+485,7505880322,Everest Pani Puri Masala,31,28,3,1,Groceries,50 gms
+486,B00004OCOB,Premia Yellow Hing Powder,50,29,21,1,Groceries,50 gms
+487,9170000018,Ramdev Chilli Powder,91,79,12,1,Groceries,200 gms
+488,B00002N5ZN,MTR Idli/Dosa/Chilly Chutney Powder,115,99,16,1,Groceries,200 gms
+489,B00004RFRM,Badshah Rajwadi Garam Masala,81,41,40,1,Groceries,100 gms
+490,9178886562,Ching's Schezwan Fried Rice Masala,60,50,10,1,Groceries,5x20 gms
+491,B00004S1CG,Kubal Chilli Powder,210,105,105,1,Groceries,500 gms
+492,B00004RHPW,Badshah Biryani Pulav Masala,110,55,55,1,Groceries,100 gms
+493,B00004R91V,Suhana Chicken Gravy Mix,45,32,13,1,Groceries,80 gms
+494,0984493697,Everest Kutilal Chilli Powder,45,40,5,1,Groceries,100 gms
+495,B00004R94F,Goldiee Kashmiri Mirch Powder,66,33,33,1,Groceries,100 gms
+496,B00004R93S,Goldiee Garam Masala,70,35,35,1,Groceries,100 gms
+497,B00004OCM7,Suhana Paneer Makhanwala Mix Masala,40,29,11,1,Groceries,50 gms
+498,B00004R945,Vandevi Hing 2001 Powder,81,51,30,1,Groceries,50 gms
+499,B00004RDCZ,Snapin Cardamom Powder Spice,379,275,104,1,Groceries,40 gms
+500,B00004RFKP,Ramdev Turmeric Powder,56,49,7,1,Groceries,200 gms
+501,9178902053,Badshah Dry Mango Powder,39,31,8,1,Groceries,50 gms
+502,917889168X,Suhana Mutter Paneer Mix Masala,40,28,12,1,Groceries,50 gms
+503,917712216X,Aashirvaad Chilli Powder,180,90,90,1,Groceries,500 gms
+504,B00002ND4Y,Kubal Turmeric Powder,140,70,70,1,Groceries,500 gms
+505,9178910218,Kapol Usal - Misal Masala,50,46,4,1,Groceries,50 gms
+506,9178903106,Goldiee Chat Masala,54,27,27,1,Groceries,100 gms
+507,B00004RFL0,Badshah Chat Masala,62,49,13,1,Groceries,100 gms
+508,B00004RFK9,Everest Sabji Masala,29,26,3,1,Groceries,50 gms
+509,7811148226,Kapol Tea Masala,180,155,25,1,Groceries,100 gms
+510,9178896002,Snapin Cinnamon Powder Spice,99,79,20,1,Groceries,40 gms
+511,B00004RHMV,Ramdev Coriander Powder,58,55,3,1,Groceries,200 gms
+512,B00004OCKN,Badshah Black Pepper Powder,95,76,19,1,Groceries,50 gms
+513,B00004RC4N,Badshah Kitchen King Masala,67,53,14,1,Groceries,100 gms
+514,B00004OCLW,Goldiee Chicken Masala,58,29,29,1,Groceries,100 gms
+515,B00002N5ZB,Suhana Mutton Gravy Mix,45,35,10,1,Groceries,80 gms
+516,B00004OCLV,Kapol Dabeli Masala,50,46,4,1,Groceries,50 gms
+517,B00002NC3M,Bedekar Goda Masala,55,49,6,1,Groceries,100 gms
+518,0689027818,Kubal Coriander Powder,165,77,88,1,Groceries,500 gms
+519,B00004OCJM,Badshah Punjabi Chhole Masala,61,49,12,1,Groceries,100 gms
+520,B00004RFL5,Goldiee Kitchen King Masala,66,33,33,1,Groceries,100 gms
+521,B00004RHNM,Kubal SP Mix Usal Masala,120,60,60,1,Groceries,200 gms
+522,B00004S4UW,Goldiee Biryani/Pulav Masala,50,25,25,1,Groceries,50 gms
+523,B00002N8B2,Kapol Sandwich Masala,45,40,5,1,Groceries,50 gms
+524,B00004RC6V,Goldiee Pavbhaji Masala,60,30,30,1,Groceries,100 gms
+525,B00004RFRY,Badshah Chicken Masala,73,58,15,1,Groceries,100 gms
+526,B00004RKG0,Snapin Ginger Garlic Mix Seasoning,79,63,16,1,Groceries,35 gms
+527,B00002N633,Badshah Chana Masala,66,53,13,1,Groceries,100 gms
+528,B00004RDC3,Suhana Veg Kolhapuri Mix,45,33,12,1,Groceries,80 gms
+529,B00002NBWR,Goldiee Sabji Masala,54,27,27,1,Groceries,100 gms
+530,B00004OCL8,Goldiee Meat Masala Special,72,36,36,1,Groceries,100 gms
+531,1933682140,Goldiee Chhole Masala,70,35,35,1,Groceries,100 gms
+532,B00002N5VP,Snapin Kashmiri Chilli Paprika,79,63,16,1,Groceries,40 gms
+533,B00004R8YX,Bedekar Sunday Masala,65,55,10,1,Groceries,100 gms
+534,B00004S1D2,Tata I-Shakti Cooking Soda,15,12,3,1,Groceries,100 gms
+535,1567120709,Kohinoor Punjabi Butter Chicken Masala,20,10,10,1,Groceries,15 gms
+536,9178892694,Bedekar Ready Mix Pickle Masala,60,49,11,1,Groceries,100 gms
+537,1009245414,Blue Bird Test-Mi-Nov Monosodium Glutamate,25,19,6,1,Groceries,25 gms
+538,6022600324,Suhana Chicken Biryani Mix,40,29,11,1,Groceries,50 gms
+539,1888861614,Premia Pickle Masala,30,26,4,1,Groceries,100 gms
+540,B00004RC5K,Premia Pickle Masala,57,50,7,1,Groceries,200 gms
+541,B00004OCNJ,Kubal SP Sunday Malvani Masala,700,350,350,1,Groceries,1 kg
+542,9178902835,Premia Yellow Hing Powder,90,45,45,1,Groceries,100 gms
+543,B00004OCNV,Satyam Jeera,98,82,16,1,Groceries,200 gms
+544,9570395591,Satyam Kashmiri Chilly,102,93,9,1,Groceries,100 gms
+545,917889364X,Satyam Elaichi,239,199,40,1,Groceries,50 gms
+546,B00004RFOI,Satyam Pumpkin Seeds,104,95,9,1,Groceries,100 gms
+547,B00004RC5A,Satyam Miri (Black Pepper),132,103,29,1,Groceries,100 gms
+548,B00004RFNO,Satyam Bedgi Chilly,94,86,8,1,Groceries,100 gms
+549,B00004RFOC,Nisarga Dry Coconut,240,129,111,1,Groceries,500 gms
+550,0740794019,Satyam Dhania,86,78,8,1,Groceries,200 gms
+551,B00004RG9D,Satyam Chia Seeds,70,64,6,1,Groceries,100 gms
+552,B00004RFMN,Satyam Elaichi Big,121,110,11,1,Groceries,50 gms
+553,B00000DMBO,Satyam Badishop,53,48,5,1,Groceries,100 gms
+554,B00004RC4J,Satyam Tamarind,170,140,30,1,Groceries,500 gms
+555,9178905095,Satyam Rai,48,38,10,1,Groceries,200 gms
+556,B00004OCN9,Satyam Khobra (Coconut),103,94,9,1,Groceries,200 gms
+557,B00004OCLY,24 Mantra Organic Flax Seeds,65,58,7,1,Groceries,200 gms
+558,B00004OCK1,Satyam Sunflower Seeds,62,56,6,1,Groceries,100 gms
+559,B00004RIYA,Satyam Pandi Chilli,60,51,9,1,Groceries,100 gms
+560,B00004RFN7,Satyam Watermelon Seed,82,75,7,1,Groceries,200 gms
+561,B00004RFL9,Satyam Ajma,107,85,22,1,Groceries,100 gms
+562,B00004RFQ2,Satyam Garam Masala Whole,123,97,26,1,Groceries,100 gms
+563,B00004RBDY,Satyam Taj (Cassia Bark),42,38,4,1,Groceries,50 gms
+564,B00004RFM7,Masala Elaichi,82,57,25,1,Groceries,50 gms
+565,B00002N6O0,Satyam Methi,25,23,2,1,Groceries,100 gms
+566,1933076895,Satyam Lavang,86,72,14,1,Groceries,50 gms
+567,9177124405,Satyam Bore Chilly,89,70,19,1,Groceries,100 gms
+568,B00002NB5I,Satyam Sabja,61,51,10,1,Groceries,100 gms
+569,B00004RBSL,Satyam Pumpkin Seeds Salted,121,110,11,1,Groceries,100 gms
+570,B00004RFJQ,Satyam Dhanadal,45,39,6,1,Groceries,100 gms
+571,B00004RHR8,Satyam Javantri,141,127,14,1,Groceries,20 gms
+572,1595552065,Pink Harvest Farms Chia Seeds,129,64,65,1,Groceries,100 gms
+573,B00004R93R,Premia Chilli Kashmiri,460,368,92,1,Groceries,500 gms
+574,B00004RD9I,Premia Grated Dry Coconut,80,65,15,1,Groceries,200 gms
+575,B00002N7NN,Premia Ajma,118,82,36,1,Groceries,200 gms
+576,B00004OCN3,Mother's Recipe Rozaana Ginger & Garlic Paste,219,109,110,1,Groceries,700 gms
+577,B00004R93V,Dabur Hommade Coconut Milk,75,70,5,1,Groceries,200 ml
+578,0898216052,Smith & Jones Ginger Garlic Paste,48,40,8,1,Groceries,200 gms
+579,B00004RC6X,Mother's Recipe Ginger Garlic Paste,50,36,14,1,Groceries,200 gms
+580,B00002N8CS,Maggi Magic Cubes - Vegetarian Masala,35,31,4,1,Groceries,40 gms
+581,B00004S4UQ,Hommade Ginger Garlic Paste,48,43,5,1,Groceries,200 gms
+582,B00004S1DN,Blue Bird Baking Powder,25,20,5,1,Groceries,50 gms
+583,B00004RDD4,Blue Bird Baking Soda,25,22,3,1,Groceries,100 gms
+584,0578060604,Hommade Tomato Puree,25,22,3,1,Groceries,200 gms
+585,B00002N5VO,Jalaram Kesar (Saffron),220,175,45,1,Groceries,1 gm
+586,9178902509,Snapin Oregano Herb,79,63,16,1,Groceries,20 gms
+587,1574893335,Snapin Pizza Mix Seasoning,79,63,16,1,Groceries,45 gms
+588,B00004OCNT,Snapin Mixed Herbs,79,63,16,1,Groceries,20 gms
+589,B00004RC5I,Snapin Pasta Mix Seasoning,79,63,16,1,Groceries,25 gms
+590,9178896800,Snapin Cheesy Garlic Bread Mix,99,79,20,1,Groceries,45 gms
+591,B00004OCIB,Snapin Piri Piri Mix,79,63,16,1,Groceries,50 gms
+592,B00004RDCG,Nutrivalue Moringa Oleifera Drum Stick Leaves Powder,170,123,47,1,Groceries,100 gms
+593,7508054032,Everest Kesari Milk Masala,205,184,21,1,Groceries,50 gms
+594,B00004RFJV,Rasoi Magic Paneer Tikka Masala Spice Mix,45,35,10,1,Groceries,45 gms
+595,B00004RFRV,Mother's Recipe Kadhai Paneer Masala Mix,55,27,28,1,Groceries,75 gms
+596,1619920239,Rasoi Magic Paneer Makhanwala Masala,45,34,11,1,Groceries,45 gms
+597,9085186625,Kohinoor - Hyderabadi Biryani Masala,20,10,10,1,Groceries,15 gms
+598,B00004OCKT,Rasoi Magic Paneer Butter Masala Mix,45,34,11,1,Groceries,45 gms
+599,B00004RFKQ,Rasoi Magic No Onion No Garlic Veg Kolhapuri Spice Mix,48,36,12,1,Groceries,45 gms
+600,B00004OCLD,Rasoi Magic No Onion No Garlic Mutter Paneer Mix,48,39,9,1,Groceries,45 gms
+601,9178898730,Mother's Recipe Paneer Butter Masala Mix,55,26,29,1,Groceries,75 gms
+602,B00002N62E,Kohinoor - Mumbai Pav Bhaji Masala,20,10,10,1,Groceries,15 gms
+603,B00002N8DI,Kohinoor Amritsari Tandoori Chicken Masala,20,10,10,1,Groceries,15 gms
+604,B00004RDFR,Kohinoor Jammu Rajma Masala,20,10,10,1,Groceries,15 gms
+605,7502173927,Mother's Recipe Chicken Biryani Mix,55,27,28,1,Groceries,100 gms
+606,B00004S4UI,Mother's Recipe Butter Chicken Mix,55,27,28,1,Groceries,80 gms
+607,B00004RFNL,Kohinoor - Punjabi Paneer Butter Masala,20,10,10,1,Groceries,15 gms
+608,B00004S1CF,Mother's Recipe Chicken Chettinad,55,27,28,1,Groceries,80 gms
+609,B00004RFRW,Mother's Recipe Vegetable Biryani Mix,55,27,28,1,Groceries,75 gms
+610,B00004RFJ7,Mother's Recipe Chicken Curry Mix,55,27,28,1,Groceries,80 gms
+611,B00004S1C3,Mother's Recipe Veg Makhanwala Mix,55,27,28,1,Groceries,75 gms
+612,B00004RDD7,Kubal Ready Mix Pickle Masala,60,30,30,1,Groceries,100 gms
+613,B00004RC5R,Tata Salt - Evaporated Iodised,21,18,3,1,Groceries,1 kg
+614,9178896134,Puro Healthy Salt,110,99,11,1,Groceries,1 kg
+615,1933244038,Tata Salt Lite - Low Sodium Iodised,40,37,3,1,Groceries,1 kg
+616,B00004OCOQ,Tata Rock Salt Powder Pouch,65,59,6,1,Groceries,500 gms
+617,B00004RDEG,Aashirvaad Salt,21,16,5,1,Groceries,1 kg
+618,7560533868,Satyam Sindhav Powder,14,10,4,1,Groceries,100 gms
+619,0968567207,Tata Rock Salt Crusher,130,118,12,1,Groceries,100 gms
+620,B00004OCL1,Madhur Pure & Hygienic Sugar (M),295,213,82,1,Groceries,5 kgs
+621,7538855092,24 Mantra Organic Sugar,135,121,14,1,Groceries,1 kg
+622,1886846820,Organic Tattva Brown Sugar,75,52,23,1,Groceries,500 gms
+623,B00004RFKF,Organic Tattva Sugar,140,98,42,1,Groceries,1 kg
+624,B00004OCIX,Satyam Sugar Bura,37,34,3,1,Groceries,500 gms
+625,B00004RG9A,Avanti Sugar Cubes,65,59,6,1,Groceries,126 Cubes
+626,B00002N8CX,Premia Big Sakariya,15,11,4,1,Groceries,200 gms
+627,B00004RC5B,Blue Bird Castor Sugar,35,29,6,1,Groceries,200 gms
+628,1888861339,Blue Bird Icing Sugar,40,30,10,1,Groceries,200 gm
+629,B00004R8ZD,24 Mantra Organic Jaggery Powder,80,74,6,1,Groceries,500 gms
+630,B00004R921,Vardhan Agro Jaggery Powder,80,42,38,1,Groceries,1 kg
+631,B00004S1DH,Satyam Jaggery,55,50,5,1,Groceries,500 gms
+632,B00004RDDZ,Society Tea,520,439,81,2,Dairy & Beverages,1 kg
+633,B00004OCKC,Girnar Royal Cup Tea,520,465,55,2,Dairy & Beverages,1 kg
+634,B00004RFRX,Brooke Bond Red Label Natural Care Tea,315,275,40,2,Dairy & Beverages,500 gms
+635,B00004OCIV,Tata Tea Agni,320,255,65,2,Dairy & Beverages,1 kg
+636,B00004RG9C,Brooke Bond Red Label Tea,550,475,75,2,Dairy & Beverages,1 kg
+637,1896639437,Wagh Bakri Premium Leaf Tea Pouch,520,475,45,2,Dairy & Beverages,1 kg
+638,B00004S1BZ,Tata Tea Premium,560,450,110,2,Dairy & Beverages,1 kg
+639,B00004RBSH,Taj Mahal Tea,360,315,45,2,Dairy & Beverages,500 gms
+640,B00004RBTD,Tata Tea Gold,625,495,130,2,Dairy & Beverages,1 kg
+641,B00004RDAW,Society Masala Tea Jar,160,144,16,2,Dairy & Beverages,250 gms
+642,1574895753,Tetley Green Tea Lemon & Honey,550,275,275,2,Dairy & Beverages,100 U
+643,B00004RFLW,Girnar Detox Green Tea Desi Kahwa,100,90,10,2,Dairy & Beverages,10 U
+644,1595303197,Lipton Green Tea - Honey Lemon,165,135,30,2,Dairy & Beverages,25 U
+645,B00004RBSV,Tea Country Honey & Lemon Green Tea,99,69,30,2,Dairy & Beverages,25 U
+646,7544237427,Wagh Bakri Navchetan Tea,310,270,40,2,Dairy & Beverages,1 kg
+647,9178889634,Tata Tea Teaveda,126,105,21,2,Dairy & Beverages,250 gms
+648,7885124193,Girnar Masala Instant Premix Chai,140,125,15,2,Dairy & Beverages,140 gms
+649,B00004OCMQ,Tetley Ginger Mint Lemon Green Tea,165,140,25,2,Dairy & Beverages,25 Tea-Bags
+650,B00004RKFJ,Goodricke Super Cup Tea,405,260,145,2,Dairy & Beverages,1 kg
+651,B00004RIXQ,Lipton Green Tea - Pure & Light,575,449,126,2,Dairy & Beverages,100 Tea-Bags
+652,B00004R93T,Tetley Long Leaf Green Tea Powder,330,295,35,2,Dairy & Beverages,250 gms
+653,B0000224F8,Lipton Green Tea - Lemon Zest,165,145,20,2,Dairy & Beverages,25 Tea-Bags
+654,B00004OCJN,Organic India Tulsi Green Tea - Lemon Ginger,194,157,37,2,Dairy & Beverages,25 Tea-Bags
+655,9178890616,Organic India Tulsi Green Tea - Classic,194,160,34,2,Dairy & Beverages,25 Tea-Bags
+656,B00004RC5L,Premia Tea Masala,39,35,4,2,Dairy & Beverages,50 gms
+657,B00004RDEH,Tea Country Original Green Tea,99,59,40,2,Dairy & Beverages,25 Tea-Bags
+658,B00004RFO0,Lipton Green Tea - Mint Burst,165,149,16,2,Dairy & Beverages,25 Tea-Bags
+659,B00002NBX2,Twinings Green Tea & Lemon,299,247,52,2,Dairy & Beverages,25 Tea-Bags
+660,B00004OCK5,Twinings Green Tea & Mint,299,254,45,2,Dairy & Beverages,25 Tea-Bags
+661,7020064914,Twinings Origins Darjeeling Tea,299,242,57,2,Dairy & Beverages,25 Tea-Bags
+662,B00004RC4X,Wagh Bakri Green Tea Tulsi,150,75,75,2,Dairy & Beverages,25 Tea-Bags
+663,B00000ISBK,Wagh Bakri Green Tea Mint,150,75,75,2,Dairy & Beverages,25 Tea-Bags
+664,917889347X,Organic India Ayush Kwath Immunity Booster,184,165,19,2,Dairy & Beverages,25 Tea-Bags
+665,7509806674,Wagh Bakri Green Tea Honey Lemon,150,75,75,2,Dairy & Beverages,25 Tea-Bags
+666,B00004S4UO,Wagh Bakri Green Tea,150,75,75,2,Dairy & Beverages,25 Tea-Bags
+667,B00004S1AZ,Typhoo Lemongrass Green Tea,210,135,75,2,Dairy & Beverages,25 Tea-Bags
+668,1933682132,Typhoo Supporting Tulsi Green Tea,210,135,75,2,Dairy & Beverages,25 Tea-Bags
+669,7806719466,Himalaya Green Tea - Tulasi,300,240,60,2,Dairy & Beverages,60 Tea-Bags
+670,B00004RHNJ,Typhoo Organic Detoxing Slim Tea,210,145,65,2,Dairy & Beverages,20 Tea-Bags
+671,B00004RHNL,Lipton Green Tea - Tulsi Natura,165,149,16,2,Dairy & Beverages,25 Tea-Bags
+672,B00004RD9J,Organic India Tulsi Original,168,149,19,2,Dairy & Beverages,25 Tea-Bags
+673,B00004RDEI,Teacountry Tulsi Green Tea,99,49,50,2,Dairy & Beverages,25 Tea-Bags
+674,B00004S1CY,Tetley Green Tea Pure Original,550,275,275,2,Dairy & Beverages,100 Tea-Bags
+675,9085186919,Tetley Green Tea Ginger Mint & Lemon,550,275,275,2,Dairy & Beverages,100 Tea-Bags
+676,B00004RIZ7,Organic Tulsi Green Tea Classic,250,212,38,2,Dairy & Beverages,100 gms
+677,B00004OCN5,Tata Tea Tulsi Green Tea Bag,174,120,54,2,Dairy & Beverages,25 Tea-Bags
+678,B00004NHO4,Organic Tulsi Ginger Turmeric,168,135,33,2,Dairy & Beverages,25 Tea-Bags
+679,1403783624,Twinings Green Tea Lemon & Honey,910,770,140,2,Dairy & Beverages,100 Tea-Bags
+680,B00004S1CI,Organic Tulsi Mulethi,168,140,28,2,Dairy & Beverages,25 Tea-Bags
+681,B00004OCJV,Twinings Green Tea & Lemon,910,770,140,2,Dairy & Beverages,100 Tea-Bags
+682,B00004OCO8,Twinings Pure Green Tea,910,815,95,2,Dairy & Beverages,100 Tea-Bags
+683,B00004OCKS,Typhoo Organic Cleansing Root Remedy,210,135,75,2,Dairy & Beverages,20 Tea-Bags
+684,7807176814,Typhoo Organic Immunity Three Tulsi,210,135,75,2,Dairy & Beverages,20 Tea-Bags
+685,B00004RFJK,Nescafé Classic Coffee,140,130,10,2,Dairy & Beverages,50 gms
+686,B00004R92M,Le Café 100% Pure Instant Coffee,108,54,54,2,Dairy & Beverages,50 gms
+687,7807477237,Bru Instant Coffee,340,306,34,2,Dairy & Beverages,200 gms
+688,B00004RD9E,Nescafé Sunrise Coffee,340,310,30,2,Dairy & Beverages,200 gms
+689,B00004RFOK,Nescafe Gold Blend Coffee Jar,475,400,75,2,Dairy & Beverages,100 gms
+690,1934573019,House Instant Coffee,85,42,43,2,Dairy & Beverages,50 gms
+691,1611690897,Nescafé Classic Coffee Jar,295,260,35,2,Dairy & Beverages,100 gms
+692,9178899842,Nescafe Classic Coffee Jar,550,495,55,2,Dairy & Beverages,200 gms
+693,8996535818,Davidoff Coffee Rich Aroma,550,495,55,2,Dairy & Beverages,100 gms
+694,B00004R8ZT,Colombian Brew Instant Coffee Nutty Hazelnut,350,175,175,2,Dairy & Beverages,100 gms
+695,B00004RHNP,Colombian Brew Instant Coffee Original,220,110,110,2,Dairy & Beverages,100 gms
+696,B00004OCMZ,Continental Xtra Coffee Jar,460,230,230,2,Dairy & Beverages,200 gms
+697,B00002N8BV,ID Traditional Decoction Filter Coffee,95,64,31,2,Dairy & Beverages,150 ml
+698,B00004RGAH,Colombian Brew Instant Coffee Double Chocolate Mocha,350,175,175,2,Dairy & Beverages,100 gms
+699,B00004RHLT,Davidoff Coffee Fine Aroma,550,495,55,2,Dairy & Beverages,100 gms
+700,B00003JAU1,Continental Xtra Instant South Blend Coffee,115,57,58,2,Dairy & Beverages,50 gms
+701,9221800016,Colombian Brew Instant Coffee Wild Vanilla,350,175,175,2,Dairy & Beverages,100 gms
+702,917891048X,Colombian Brew Instant Coffee Creamy Caramel,350,175,175,2,Dairy & Beverages,100 gms
+703,B00004RFMA,Davidoff Coffee Crema Intense,550,495,55,2,Dairy & Beverages,90 gms
+704,B00004RIYZ,Cothas Coffee Speciality Blend,106,95,11,2,Dairy & Beverages,200 gms
+705,B00002N6BX,Nescafe Latte Express Coffee Cup,25,22,3,2,Dairy & Beverages,25 gms
+706,B00004OCIZ,Cothas Coffee Nova-Therm Pure Filter,114,102,12,2,Dairy & Beverages,200 gms
+707,B00004S1BV,Continental Speciale Coffee Pouch,140,70,70,2,Dairy & Beverages,50 gms
+708,7505891057,Id Instant Filter Coffee Strong,70,35,35,2,Dairy & Beverages,150 ml
+709,B00004RFPQ,Le Cafe Coffee Jar,125,62,63,2,Dairy & Beverages,50 gms
+710,B00004RDBY,Nescafe Cappuccino Flavour Can,50,35,15,2,Dairy & Beverages,180 ml
+711,7801798953,Nescafe Cappuccino Flavour Instense Café,35,25,10,2,Dairy & Beverages,180 ml
+712,B00004OCNP,Nescafe Chilled Latte Coffee & Milk Beverage,35,25,10,2,Dairy & Beverages,180 ml
+713,B00004RG9E,Nescafe Hazelnut Flavour Coffee & Milk Beverage,35,25,10,2,Dairy & Beverages,180 ml
+714,B00004RFIX,Nescafe Iced Latte Flavoured Can,50,35,15,2,Dairy & Beverages,180 ml
+715,B00004S1C2,Davidoff Coffee Espresso Intense,550,495,55,2,Dairy & Beverages,100 gms
+716,7806902147,Amul Butter,235,225,10,2,Dairy & Beverages,500 gms
+717,B00004S4TR,Nutralite Fat Spread Tub,205,165,40,2,Dairy & Beverages,500 gms
+718,B00004OCNQ,Gowardhan Butter,250,205,45,2,Dairy & Beverages,500 gms
+719,0076144011,Amul Garlic & Herbs Buttery Spread,49,46,3,2,Dairy & Beverages,100 gms
+720,B00004OCN6,Delicious Fat Spread,88,74,14,2,Dairy & Beverages,500 gms
+721,B00004OCJL,President Premium Butter Salted,260,240,20,2,Dairy & Beverages,500 gms
+722,B00002N8DB,Amul Butter Unsalted,49,46,3,2,Dairy & Beverages,100 gms
+723,B00004RDBS,Nutralite Fat Spread UKE,200,176,24,2,Dairy & Beverages,500 gms
+724,B00000JGRV,Amul Lite Milk Fat Bread Spread,195,181,14,2,Dairy & Beverages,500 gms
+725,064178614X,Mother Dairy Pasteurized Butter,235,218,17,2,Dairy & Beverages,500 gms
+726,1888861363,Amul Butter School Pack,57,53,4,2,Dairy & Beverages,100 gms
+727,9178894263,President Premium Butter Unsalted,265,245,20,2,Dairy & Beverages,500 gms
+728,B00002N83W,Amul White Butter Unsalted,49,46,3,2,Dairy & Beverages,100 gms
+729,1888861126,Amul Taaza Toned Milk,64,61,3,2,Dairy & Beverages,1 Litre
+730,B00004RFPL,Cadbury Bournvita Health Drink Refill,310,260,50,2,Dairy & Beverages,750 gms
+731,7531720957,Amul Gold Homogenised Standardised Milk,68,65,3,2,Dairy & Beverages,1 Litre
+732,B00004S4TZ,Nandini Good Life Toned Milk,62,57,5,2,Dairy & Beverages,1 Litre
+733,B00004R91Y,Go Double Toned Milk,66,55,11,2,Dairy & Beverages,1 Litre
+734,B00004RFN9,Protinex Original Health Drink,595,520,75,2,Dairy & Beverages,400 gms
+735,B00004RFS7,Pediasure Nutritional Powder - Premium Chocolate Flavour,975,899,76,2,Dairy & Beverages,750 gms
+736,B00004RFMU,Protinex Chocolate Flavour Health Drink Tin,560,475,85,2,Dairy & Beverages,400 gms
+737,B00004OCK3,Cadbury Bournvita Jar,410,360,50,2,Dairy & Beverages,1 kg
+738,9178889715,Horlicks Health & Nutrition Drink Refill - Chocolate,302,247,55,2,Dairy & Beverages,750 gms
+739,B00004RD9D,Amul Slim-n-Trim Skimmed Milk,75,71,4,2,Dairy & Beverages,1 Litre
+740,B00004RHQZ,Cadbury Bournvita 5 Star Magic,325,290,35,2,Dairy & Beverages,750 gms
+741,B00004RIXV,Amul Pro Whey Protein Malt Chocolate Drink,175,135,40,2,Dairy & Beverages,500 gms
+742,B00004RFO6,Protinex Original,990,799,191,2,Dairy & Beverages,750 gms
+743,B00004S1BT,Horlicks Classic Malt,464,399,65,2,Dairy & Beverages,2x500 gms
+744,B00004R931,Women's Horlicks Health & Nutrition Drink - Chocolate,299,278,21,2,Dairy & Beverages,400 gms
+745,1223069818,Boost Nutrition Drink Refill - Health Energy & Sports,351,335,16,2,Dairy & Beverages,750 gms
+746,B00004RFNZ,Horlicks Health & Nutrition Drink Refill - Classic Malt,330,299,31,2,Dairy & Beverages,750 gms
+747,1574898922,Protinex Vanilla Flavour Health Drink,550,475,75,2,Dairy & Beverages,400 gms
+748,B00002N5ZP,Nestlé A+ Nourish Toned Milk,75,70,5,2,Dairy & Beverages,1 Litre
+749,B00002N86E,Complan Royal Chocolate,530,485,45,2,Dairy & Beverages,1 kg
+750,B00004RG96,Pediasure Vanilla Delight,975,879,96,2,Dairy & Beverages,750 gms
+751,B00004OCKP,Cadbury Hot Chocolate Drinking Powder,175,162,13,2,Dairy & Beverages,200 gms
+752,B00004R93Q,Sofit Soya Milk Sugar Free,145,117,28,2,Dairy & Beverages,1 Litre
+753,9178889588,Women's Horlicks Health & Nutrition Drink Jar - Caramel,299,278,21,2,Dairy & Beverages,400 gms
+754,B00004RFLQ,Hershey's Natural Unsweetened Cocoa Powder,270,249,21,2,Dairy & Beverages,225 gms
+755,B00004RDCX,Amul Kool Kesar Milk,20,19,1,2,Dairy & Beverages,180 ml
+756,B00002N601,Complan Kesar Badam Health Drink,315,292,23,2,Dairy & Beverages,500 gms
+757,B00004RFOS,Amul Kool Badam Milk,20,19,1,2,Dairy & Beverages,180 ml
+758,7807326239,Ensure Nutrition Powder - Vanilla Flavour,550,499,51,2,Dairy & Beverages,400 gms
+759,B00004R9YA,Sofit Soya Milk Chocolate,145,120,25,2,Dairy & Beverages,1 Litre
+760,B00004RGBN,Amul Kool Elaichi Milk,20,19,1,2,Dairy & Beverages,180 ml
+761,B00004RC44,Amul Kool Cafe Milk,25,23,2,2,Dairy & Beverages,200 ml
+762,161552231X,Amul Basundi Kesar Elaichi,190,177,13,2,Dairy & Beverages,1 Litre
+763,B00004OCMO,Amul Lactose Free Milk,25,23,2,2,Dairy & Beverages,200 ml
+764,880500281X,Blue Bird Cocoa Powder,63,55,8,2,Dairy & Beverages,50 gms
+765,B00004RDD1,Hershey's Hot Chocolate Powder,210,180,30,2,Dairy & Beverages,250 gms
+766,B00004R93I,Sofit Soya Milk Vanilla,145,123,22,2,Dairy & Beverages,1 Litre
+767,0956508421,Cavin's Chocolate Milkshake,175,125,50,2,Dairy & Beverages,1 Litre
+768,B00004RHNN,Amul Kool Rose Milk,20,19,1,2,Dairy & Beverages,180 ml
+769,B00004R916,Hershey's Milk Booster Chocolate Flavor,200,174,26,2,Dairy & Beverages,450 gms
+770,9178898773,Sofit Soya Milk Kesar Pista,130,105,25,2,Dairy & Beverages,1 Litre
+771,B00002NBWZ,Cavin's Vanilla Milkshake,175,125,50,2,Dairy & Beverages,1 Litre
+772,1574893343,Horlicks Women Plus Caramel Flav,530,430,100,2,Dairy & Beverages,750 gms
+773,B00002N5ZQ,Raw Pressery Almond Milk Plain (Unsweetened),325,260,65,2,Dairy & Beverages,1 Litre
+774,B00004R936,Horlicks Protein Chocolate Flavour,535,454,81,2,Dairy & Beverages,400 gms
+775,9178900913,Chitale Flavoured Milk Butterscotch,25,23,2,2,Dairy & Beverages,200 ml
+776,B00002NAPD,Horlicks Chocolate Delight Health Drink Refill,302,247,55,2,Dairy & Beverages,750 gms
+777,B00004R92J,Chitale Flavoured Milk - Coffee,30,27,3,2,Dairy & Beverages,200 ml
+778,B00004R920,Horlicks Protein Vanilla Flavour,535,454,81,2,Dairy & Beverages,400 gms
+779,B00004RBTL,Horlicks Chocolate Delight Flavour Jar,110,102,8,2,Dairy & Beverages,200 gms
+780,B00004RIZC,Christopher Dark Cocoa Powder For Baking & Hot & Cold Drinks,299,149,150,2,Dairy & Beverages,200 gms
+781,1847503705,Chitale Flavoured Milk Rose,25,23,2,2,Dairy & Beverages,200 ml
+782,B00002N635,Blue Bird Drinking Chocolate,60,51,9,2,Dairy & Beverages,100 gms
+783,B00004RFKB,Junior Horlicks Vanilla Flavour,490,435,55,2,Dairy & Beverages,1 kg
+784,B00004OCMY,Christopher Cocoa Original Drinking Cocoa,249,124,125,2,Dairy & Beverages,200 gms
+785,B00004RBRS,Nestlé Slim Milk,89,82,7,2,Dairy & Beverages,1 Litre
+786,B00004RC42,Amul Processed Cheese Cubes,260,241,19,2,Dairy & Beverages,500 gms
+787,B00000K2ON,Amul Processed Cheese,453,421,32,2,Dairy & Beverages,1 kg
+788,B00004RFO4,Amul Cheese Slices,360,334,26,2,Dairy & Beverages,750 gms
+789,7111240197,Gowardhan Cheese Slice - 28 Slices,380,249,131,2,Dairy & Beverages,476 gms
+790,B00004RDAG,Britannia Cheese Slices,400,349,51,2,Dairy & Beverages,480 gms
+791,8805000671,Amul Processed Cheese Block,245,230,15,2,Dairy & Beverages,500 gms
+792,B00000J3IF,Thums Up,95,69,26,2,Dairy & Beverages,1.75 Litres
+793,7801969928,Thums Up Bottle,160,125,35,2,Dairy & Beverages,8x250 ml
+794,0756031184,Amul Mozzarella Diced Pizza Cheese (Frozen),450,420,30,2,Dairy & Beverages,1 kg
+795,B00004RFS9,Sprite,95,69,26,2,Dairy & Beverages,1.75 Litres
+796,0641929307,Mirinda Orange,90,60,30,2,Dairy & Beverages,2.25 Litres
+797,B00004R941,Britannia Cheese Cubes,150,125,25,2,Dairy & Beverages,200 gms
+798,B00004RC45,Gowardhan Processed Cheese,450,415,35,2,Dairy & Beverages,1 kg
+799,7010075360,Amul Cheese Spread Plain,85,80,5,2,Dairy & Beverages,200 gms
+800,B00004R91K,Amul Diced Mozzarella & Cheddar Cheese Blend (Frozen),105,96,9,2,Dairy & Beverages,200 gms
+801,0740794248,Bisleri Club Soda,20,14,6,2,Dairy & Beverages,750 ml
+802,0587010584,Britannia Cheeza Pizza Cheese,285,250,35,2,Dairy & Beverages,400 gms
+803,B00004RC4I,Britannia Cheese Block,290,260,30,2,Dairy & Beverages,400 gms
+804,B00004RC6S,Gowardhan Go Cheese Slices - Plain,140,99,41,2,Dairy & Beverages,200 gms
+805,B00002N8DD,Gowardhan Processed Cheese Slices,399,340,59,2,Dairy & Beverages,750 gms
+806,0681795107,Amul Mozzarella & Cheddar Pizza Cheese,105,98,7,2,Dairy & Beverages,200 gms
+807,B00004R932,Xotik Jeeru Jeera Masala Drink,90,77,13,2,Dairy & Beverages,2 Litres
+808,7503148519,Coca-Cola Bottle,160,125,35,2,Dairy & Beverages,8x250 ml
+809,B00004OCJ4,Pepsi,90,60,30,2,Dairy & Beverages,2.25 Litres
+810,9996981134,D'lecta Cream Cheese,169,149,20,2,Dairy & Beverages,150 gms
+811,9533222441,Coca-Cola No Sugar Bottle,149,114,35,2,Dairy & Beverages,8x250 ml
+812,B00002N5VG,Gowardhan Go Pizza Cheese,140,99,41,2,Dairy & Beverages,200 gms
+813,B00004R91X,Amul Easy To Grate Processed Cheese,463,430,33,2,Dairy & Beverages,1 kg
+814,B00004RBSE,Coca-Cola,85,63,22,2,Dairy & Beverages,1.75 Litres
+815,0978561023,Duke's Club Soda,18,16,2,2,Dairy & Beverages,750 ml
+816,B00004OCNS,Mother Dairy Cheese Cubes,110,102,8,2,Dairy & Beverages,180 gms
+817,B00004RHNO,Mother Dairy Cheese Slices,130,120,10,2,Dairy & Beverages,200 gms
+818,710106177X,D'lecta Natural Feta Salad Cheese,100,89,11,2,Dairy & Beverages,100 gms
+819,0594519624,7 Up,90,63,27,2,Dairy & Beverages,2.25 Litres
+820,B00002NBSO,Fanta,95,75,20,2,Dairy & Beverages,1.75 Litres
+821,B00004OCOK,Amul Mozzarella Pizza Cheese (Frozen),100,93,7,2,Dairy & Beverages,200 gms
+822,1888861657,D'lecta Cheese Spread,115,79,36,2,Dairy & Beverages,180 gms
+823,B00004R942,Limca,95,77,18,2,Dairy & Beverages,2.25 Litres
+824,0974889172,Heineken 0.0% Non-Alcoholic Can,75,37,38,2,Dairy & Beverages,330 ml
+825,1929780656,D'lecta Natural Cheddar Cheese,199,169,30,2,Dairy & Beverages,200 gms
+826,B00002NAD4,Kingfisher Radler Fizzy Mint & Lemon Malt Non-Alcoholic Can,45,22,23,2,Dairy & Beverages,300 ml
+827,B00004RFRU,Appy Apple Juice Drink,100,90,10,2,Dairy & Beverages,10 x 160 ml
+828,B00004OCNK,Kingfisher Radler Ginger & Lime Non-Alcoholic Can,45,22,23,2,Dairy & Beverages,300 ml
+829,B00002NBUE,D'lecta Cheese Slices,145,99,46,2,Dairy & Beverages,180 gms
+830,0705356280,Kingfisher Radler Fizzy Lemon Malt Non-Alcoholic Can,45,22,23,2,Dairy & Beverages,300 ml
+831,B00004RFLS,D'lecta Shredded Mozzarella Cheese,305,244,61,2,Dairy & Beverages,500 gms
+832,B00004RBRJ,Appy Fizz Apple Juice,58,49,9,2,Dairy & Beverages,1 Litre
+833,B00004OCOH,B Fizz Malt Flavoured Fruit Juice Bottle,10,9,1,2,Dairy & Beverages,160 ml
+834,B00000JGRU,Gowardhan Processed Cheese Angles,100,75,25,2,Dairy & Beverages,160 gms
+835,B00004S4VJ,D'lecta Cheese Cubes,145,99,46,2,Dairy & Beverages,200 gms
+836,B00004R8ZK,D'lecta Natural Cheddar Cheese Slices,199,179,20,2,Dairy & Beverages,200 gms
+837,B00002N6O6,Coca-Cola Tin,40,36,4,2,Dairy & Beverages,300 ml
+838,7561758030,D'lecta Processed Cheese Block,145,99,46,2,Dairy & Beverages,200 gms
+839,B00002N84Q,Bisleri Limonata - With Lime Juice,40,20,20,2,Dairy & Beverages,600 ml
+840,B00004RFLD,Pepsi Can,30,24,6,2,Dairy & Beverages,250 ml
+841,B00000JGRT,Bisleri Fonzo - Mango With Fizzz,40,20,20,2,Dairy & Beverages,600 ml
+842,6151000064,Bisleri Spyci - Masala Maar Ke,40,20,20,2,Dairy & Beverages,600 ml
+843,B00004RGA0,Pepsi,40,35,5,2,Dairy & Beverages,750 ml
+844,B00004OCL2,7 Up Lemon,40,35,5,2,Dairy & Beverages,750 ml
+845,B00004RHQE,Amul Diced Blend Cheese,455,415,40,2,Dairy & Beverages,1 kg
+846,B00004S1DV,Nestlé Everyday Dairy Whitener,498,457,41,2,Dairy & Beverages,1 kg
+847,B00004RG94,Maaza Mango Drink,70,55,15,2,Dairy & Beverages,1.2 Litres
+848,B00004RG98,Amul Fresh Paneer,73,68,5,2,Dairy & Beverages,200 gms
+849,B00004RDD9,Gowardhan Paneer Classic Block,215,182,33,2,Dairy & Beverages,500 gms
+850,B00004S1AT,Real Fruit Power Mixed Fruit,110,75,35,2,Dairy & Beverages,1 Litre
+851,B00004OCJ5,Yakult Probiotic Health Drink,70,70,,2,Dairy & Beverages,5x65 ml
+852,B00004OCIU,Nestlé Milkmaid,128,118,10,2,Dairy & Beverages,400 gms
+853,B00002N8D6,Amul Fresh Cream,197,185,12,2,Dairy & Beverages,1 Litre
+854,B00004RDFK,Amul Mithai Mate Sweetened Condensed Milk,106,98,8,2,Dairy & Beverages,400 gms
+855,B00004R949,Maaza Mango Drink,100,75,25,2,Dairy & Beverages,10x150 ml
+856,B00004OCON,Real Fruit Power Orange,110,80,30,2,Dairy & Beverages,1 Litre
+857,B00004RFL1,Amul Masti Spiced Buttermilk,12,11,1,2,Dairy & Beverages,180 ml
+858,B00002NC62,Real Fruit Power Guava,100,65,35,2,Dairy & Beverages,1 Litre
+859,B00004RKFW,Tropicana Slice Mango,60,35,25,2,Dairy & Beverages,1.2 Litres
+860,B00004R8ZW,Tropicana Mixed Fruit Delight,110,75,35,2,Dairy & Beverages,1 Litre
+861,9178889065,Amul Malai Paneer (Frozen),75,70,5,2,Dairy & Beverages,200 gms
+862,B00004S1BA,Real Fruit Power Litchi,110,75,35,2,Dairy & Beverages,1 Litre
+863,B00004RDFN,Amulya Dairy Whitener Milk Powder,197,189,8,2,Dairy & Beverages,500 gms
+864,B00004RFMO,Tropicana Orange Delight,110,75,35,2,Dairy & Beverages,1 Litre
+865,0972187677,Real Fruit Power Apple,105,75,30,2,Dairy & Beverages,1 Litre
+866,1888861207,Amul Rasmalai,200,180,20,2,Dairy & Beverages,500 gms
+867,B00004RFJJ,Raw Pressery Coconut Water,60,45,15,2,Dairy & Beverages,200 ml
+868,B00004S1D6,Mango Merry Mango Drink,85,54,31,2,Dairy & Beverages,2 Litres
+869,B00002NC69,Prabhat Malai Paneer,80,63,17,2,Dairy & Beverages,200 gm
+870,B0000224FL,Hershey's Chocolate Milk Shake,35,21,14,2,Dairy & Beverages,180 ml
+871,B00004RDE2,Chitale Fresh Paneer,70,65,5,2,Dairy & Beverages,200 gms
+872,7502157859,Tropicana Cranberry Delight,110,99,11,2,Dairy & Beverages,1 Litre
+873,B00004OCM6,Tropicana Guava Delight,100,65,35,2,Dairy & Beverages,1 Litre
+874,B00004RFLZ,Baidyanath Amla Juice,220,149,71,2,Dairy & Beverages,1 Litre
+875,B00004RDF1,B Natural Guava Fruit Beverage,110,55,55,2,Dairy & Beverages,1 Litre
+876,0756032318,Raw Pressery Orange Juice,330,265,65,2,Dairy & Beverages,1 Litre
+877,B00002N5Z9,Epigamia Artisanal Mishti Doi,30,18,12,2,Dairy & Beverages,85 gms
+878,B00004RC49,Baidyanath Aloevera Juice,250,200,50,2,Dairy & Beverages,1 Litre
+879,0789319942,Paper Boat Aamras Drink,30,21,9,2,Dairy & Beverages,200 ml
+880,B00002NBSS,Tropicana Litchi Delight,110,79,31,2,Dairy & Beverages,1 Litre
+881,B0000223XU,D'lecta Dairy Cream,54,48,6,2,Dairy & Beverages,200 ml
+882,B00004OCID,Hershey's Milkshake Strawberry Flavour,35,21,14,2,Dairy & Beverages,180 ml
+883,B00004R909,Raw Pressery Sugarcane + Lemon Juice,200,160,40,2,Dairy & Beverages,1 Litre
+884,B00004S1DG,Yakult Light Health Drink,85,85,,2,Dairy & Beverages,5x65 ml
+885,B00004RD9K,Hershey's Milkshake Cookies N Cream Flavour,35,21,14,2,Dairy & Beverages,180 ml
+886,917712071X,Minute Maid Mixed Fruit Drink,105,52,53,2,Dairy & Beverages,1 Litre
+887,B00004RC5C,Baidyanath Giloy Juice,250,200,50,2,Dairy & Beverages,1 Litre
+888,B00002N62G,B Natural Mixed Fruit Beverage,110,55,55,2,Dairy & Beverages,1 Litre
+889,B00004RDAF,B Natural Litchi Fruit Beverage,110,55,55,2,Dairy & Beverages,1 Litre
+890,B00004RHR1,Amul Lassi,70,67,3,2,Dairy & Beverages,1 Litre
+891,B00004S1CS,Tropicana Apple Delight,105,94,11,2,Dairy & Beverages,1 Litre
+892,1614547440,Amul Rose Lassi,20,19,1,2,Dairy & Beverages,250 ml
+893,9178904382,Paper Boat Chilli Guava Drink,30,19,11,2,Dairy & Beverages,200 ml
+894,B00004R93J,D'lecta Dairy Whipping Cream,450,418,32,2,Dairy & Beverages,1 kg
+895,B00004RDAE,Baidyanath Karela Jamun Juice,325,215,110,2,Dairy & Beverages,1 Litre
+896,B00004RFLH,Frooti Mango Drink,100,90,10,2,Dairy & Beverages,2 Litres
+897,B00004RHML,Cavin's Strawberry Milkshake,175,115,60,2,Dairy & Beverages,1 Litre
+898,B00004R913,Minute Maid Pulpy Orange Juice,75,65,10,2,Dairy & Beverages,1 Litre
+899,B00004S1CN,Cavin's Kaju Butterscotch Milkshake,175,130,45,2,Dairy & Beverages,1 Litre
+900,0587234792,Amul Mango Lassi,150,75,75,2,Dairy & Beverages,1 Litre
+901,9178894670,Dlicia Dairy Free Whip Topping,180,159,21,2,Dairy & Beverages,1 kg
+902,8803000275,Amul Malai Paneer (Frozen),350,325,25,2,Dairy & Beverages,1 kg
+903,B00004OCOM,Paper Boat Jaljeera Drink,30,15,15,2,Dairy & Beverages,200 ml
+904,B00004S4VQ,Chitale Keshar Flavoured Milk,25,23,2,2,Dairy & Beverages,200 ml
+905,6075015019,Mother Dairy Masala Chach,12,11,1,2,Dairy & Beverages,200 ml
+906,B00004RBTG,Amul Mango Lassi,20,19,1,2,Dairy & Beverages,200 ml
+907,0740315129,Mother Dairy Lassi,20,18,2,2,Dairy & Beverages,200 ml
+908,1888861517,Mother Dairy Mango Lassi,20,19,1,2,Dairy & Beverages,200 ml
+909,B00004RDE0,Britannia Winkin Cow Mango Lassi,20,16,4,2,Dairy & Beverages,180 ml
+910,B00002N8CR,Id Natural Paneer,100,75,25,2,Dairy & Beverages,200 gms
+911,B00004R91I,Cavin's Mango Lassi,20,18,2,2,Dairy & Beverages,200 ml
+912,B00004R8YW,Aabad Malai Paneer,99,49,50,2,Dairy & Beverages,200 gms
+913,B00000IRSQ,Glucon-D Instant Energy Orange,163,138,25,2,Dairy & Beverages,450 gms
+914,B00004RIXX,Red Bull Energy Drink,435,387,48,2,Dairy & Beverages,4x250 ml
+915,B00004OCJ7,Glucon-D Instant Energy Nimbu Pani,163,138,25,2,Dairy & Beverages,450 gms
+916,B00004OCJJ,Red Bull Pack,640,549,91,2,Dairy & Beverages,6x250 ml
+917,188886155X,Monster Energy Drink Tin,110,79,31,2,Dairy & Beverages,350 ml
+918,B00004S1BC,Red Bull Energy Drink,145,120,25,2,Dairy & Beverages,350 ml
+919,B00002NC58,Glucon-D Instant Energy Plain,110,95,15,2,Dairy & Beverages,450 gms
+920,B00004R911,Red Bull Sugarfree,115,99,16,2,Dairy & Beverages,250 ml
+921,1574892193,Red Bull Tropical Yellow Edition,115,99,16,2,Dairy & Beverages,250 ml
+922,B00004OCKV,Hamdard Rooh Afza Sharbat,150,135,15,2,Dairy & Beverages,750 ml
+923,B00004RFOJ,Mapro Coolz Rose Sharbat,225,140,85,2,Dairy & Beverages,1 Litre
+924,B00004OCNO,Hershey's Chocolate Syrup,200,178,22,2,Dairy & Beverages,623 gms
+925,B00004RFLT,Britannia Daily Fresh Dahi,70,35,35,2,Dairy & Beverages,400 gms
+926,B00004RIZU,Kokan Gem Kokam Syrup,170,85,85,2,Dairy & Beverages,1 Litre
+927,B00004RC3V,Mala's Rose Syrup,215,125,90,2,Dairy & Beverages,1 Litre
+928,B00004RDBD,Amul Masti Dahi,40,38,2,2,Dairy & Beverages,400 gms
+929,B00004RC3Y,ID Creamy Thick Curd - Dahi,65,59,6,2,Dairy & Beverages,400 gms
+930,B00004R91F,Mother Dairy Mishti Doi,65,60,5,2,Dairy & Beverages,400 gms
+931,917890675X,Amul Premium Dahi,55,44,11,2,Dairy & Beverages,400 gms
+932,1599600420,Hershey's Chocolate Flavour Syrup,90,75,15,2,Dairy & Beverages,200 gms
+933,9178904889,Mapro Whole Strawberry Crush,333,230,103,2,Dairy & Beverages,1 Litre
+934,B00004RBSX,Konkan Amrutam Kokam Syrup,170,85,85,2,Dairy & Beverages,1 Litre
+935,B00004OCNM,Mapro Alphonso Mango Crush,333,228,105,2,Dairy & Beverages,1 Litre
+936,B00004OCNG,Mother Dairy Classic Dahi,50,46,4,2,Dairy & Beverages,400 gms
+937,B00004S1CH,Mapro Orange Crush,225,155,70,2,Dairy & Beverages,1 Litre
+938,B00004RFRJ,Mapro Litchi Crush,225,155,70,2,Dairy & Beverages,1 Litre
+939,9178883172,Epigamia Artisanal Curd,80,64,16,2,Dairy & Beverages,400 gms
+940,9178894395,Prabhat Dairy Cup Dahi,70,35,35,2,Dairy & Beverages,400 gms
+941,B00004RHQQ,Cravova Peach Mojito,40,20,20,2,Dairy & Beverages,300 ml
+942,9178891655,Mala's Litchi Crush,220,150,70,2,Dairy & Beverages,1 Litre
+943,B00002NC5B,Cravova Fresh Lemonade,40,20,20,2,Dairy & Beverages,300 ml
+944,0922658536,Kokan Gem Ginger Lemon Syrup,200,100,100,2,Dairy & Beverages,1 Litre
+945,B00004R90Y,Kokan Gem Kairi Panhe,170,85,85,2,Dairy & Beverages,1 Litre
+946,B00004OCNA,Mala's Kiwi Crush,255,175,80,2,Dairy & Beverages,1 Litre
+947,B00004OCO5,Kokan Gem Awala Syrup,180,90,90,2,Dairy & Beverages,1 Litre
+948,B00004RGA1,Cravova Green Apple Mojito,40,20,20,2,Dairy & Beverages,300 ml
+949,145085866X,Cravova Classic Mojito,40,20,20,2,Dairy & Beverages,300 ml
+950,B00004OCN8,Cravova Watermelon Mojito,40,20,20,2,Dairy & Beverages,300 ml
+951,B00002N82E,Kokan Gem Kokam Blast,66,33,33,2,Dairy & Beverages,1 Litre
+952,B00004RFNN,Guruji Badam Kesar Syrup,325,295,30,2,Dairy & Beverages,750 ml
+953,B00004R93Z,Guruji Rose Syrup,145,130,15,2,Dairy & Beverages,750 ml
+954,B00004RFMG,Guruji Kesar Pista Syrup,325,295,30,2,Dairy & Beverages,750 ml
+955,B00004RDB4,Home Made Lemon Pudina Fruit Squash,180,167,13,2,Dairy & Beverages,750 ml
+956,B00004RGAL,Home Made Pan Pasand Syrup,240,223,17,2,Dairy & Beverages,750 ml
+957,B00004S1B8,Home Made Rose Falooda Syrup,190,176,14,2,Dairy & Beverages,750 ml
+958,B00004R91P,Tang Orange Instant Drink Mix Powder,220,160,60,2,Dairy & Beverages,750 gms
+959,B00004RFRN,Epigamia Low Fat Greek Yogurt Strawberry,45,30,15,2,Dairy & Beverages,90 gms
+960,B00004RFON,Epigamia Low Fat Greek Yogurt Blueberry,45,30,15,2,Dairy & Beverages,90 gms
+961,B00002NC9G,Epigamia Low Fat Greek Yogurt Alphonso Mango,45,33,12,2,Dairy & Beverages,90 gms
+962,B00004OCJA,Tang Mango Instant Drink Mix Powder,220,160,60,2,Dairy & Beverages,750 gms
+963,1574890832,Rasna Insta Orange Powder,240,120,120,2,Dairy & Beverages,750 gms
+964,B00004RFLN,Epigamia Low Fat Greek Yogurt Wild Raspberry,45,34,11,2,Dairy & Beverages,90 gms
+965,B00004RFPX,Tang Lemon Instant Drink Mix Powder,135,119,16,2,Dairy & Beverages,500 gms
+966,B00004RIXG,Epigamia Low Fat Greek Yogurt Natural,45,33,12,2,Dairy & Beverages,90 gms
+967,B00004OCII,Rasna Insta Mango Powder,240,120,120,2,Dairy & Beverages,750 gms
+968,184841580X,Jalani Jaljira,37,27,10,2,Dairy & Beverages,100 gms
+969,B00004RG9L,Epigamia Greek Yogurt Smoothie - Blueberry,70,45,25,2,Dairy & Beverages,200 ml
+970,B00004OCLK,Epigamia Greek Yogurt Smoothie - Strawberry,70,45,25,2,Dairy & Beverages,200 ml
+971,B00004RFOA,Epigamia Greek Yogurt Smoothie - Alphonso Mango,70,45,25,2,Dairy & Beverages,200 ml
+972,B00004RFOE,Kapol Kesaria Thandai With Saffron & Cardamom,40,35,5,2,Dairy & Beverages,50 gms
+973,B00004RFKW,Epigamia Greek Yogurt Zero Added Sugar Strawberry,70,49,21,2,Dairy & Beverages,120 gms
+974,B00004R92Q,Epigamia Coconut Milk Yogurt Unsweetened,70,49,21,2,Dairy & Beverages,90 gms
+975,7507420019,Epigamia Greek Yogurt Zero Sugar Mixed Berry,70,49,21,2,Dairy & Beverages,120 gms
+976,B00004RFRL,Epigamia Coconut Milk Yogurt Alternative With Coconut Jaggery,70,49,21,2,Dairy & Beverages,90 gms
+977,B00004R8YK,Chitale Full Cream Shrikhand Amba,125,116,9,2,Dairy & Beverages,500 gms
+978,B00004R8YO,Bisleri Packaged Drinking Water,70,55,15,2,Dairy & Beverages,5 Litres
+979,917888537X,Amul Shrikhand Elaichi,100,93,7,2,Dairy & Beverages,500 gms
+980,7533925882,Chitale Full Cream Shrikhand Keshar,125,115,10,2,Dairy & Beverages,500 gms
+981,B00004RFQI,Amul Shrikhand Mango,100,93,7,2,Dairy & Beverages,500 gms
+982,B00002N7NM,Amul Shrikhand Badam Pista,115,106,9,2,Dairy & Beverages,500 gms
+983,B00004OCLU,Chitale Full Cream Shrikhand Badam Pista,125,116,9,2,Dairy & Beverages,500 gms
+984,7500005113,Amul Amrakhand,100,93,7,2,Dairy & Beverages,500 gms
+985,B0000224OB,Amul Shrikhand Kesar,115,106,9,2,Dairy & Beverages,500 gms
+986,9085188423,Bisleri Water,20,14,6,2,Dairy & Beverages,1 Litre
+987,B00004OCJQ,Bisleri Vedica Natural Mountain Water,60,30,30,2,Dairy & Beverages,1 Litre
+988,1438802552,Bisleri Packaged Drinking Water,288,267,21,2,Dairy & Beverages,48 U
+989,B00002NBZD,Himalayan Natural Mineral Water,65,45,20,2,Dairy & Beverages,1 Litre
+990,B00004RFRS,Amul Fresh Block Paneer,340,315,25,2,Dairy & Beverages,2 U 
+991,7300085180,Chetran's Tofu Soya Paneer,55,45,10,2,Dairy & Beverages,250 gms
+992,B00004R8YM,Safal Green Peas (Frozen),240,220,20,3,Fruits & Vegetables,1 kg
+993,B00004RFOW,Fresh Watermelon (Tarbooj),70,56,14,3,Fruits & Vegetables,1 U
+994,B00004RFKR,Fresh Pomegranate (Anar),275,205,70,3,Fruits & Vegetables,4 U
+995,B00002N8CZ,Apple Royal Gala (Seb),225,195,30,3,Fruits & Vegetables,4 U
+996,B00004OCMP,Fresh Banana (Kela) Elaichi,65,44,21,3,Fruits & Vegetables,6 U
+997,B00004S1D3,Fresh Apple (Seb) Washington,250,225,25,3,Fruits & Vegetables,4 U
+998,B00004RHQ7,Fresh Papaya (Papita),60,46,14,3,Fruits & Vegetables,1 U
+999,B00004S1CU,Fresh Kiwi,200,185,15,3,Fruits & Vegetables,3 U
+1000,B00004R957,Fresh Pear (Nashpati),200,125,75,3,Fruits & Vegetables,4 U
+1001,B00004RHNY,Fresh Muskmelon (Kharbooja),65,33,32,3,Fruits & Vegetables,1 U
+1002,B00004S1D7,Fresh Sweet Lime (Mosambi),120,65,55,3,Fruits & Vegetables,4 U
+1003,B00000K4BW,Fresh Orange (Santra) Imported,175,115,60,3,Fruits & Vegetables,4 U
+1004,B00004RC54,Sweet Tamarind (Thailand),120,95,25,3,Fruits & Vegetables,200 gms
+1005,B00002NC5F,Fresh Raw Mango,65,32,33,3,Fruits & Vegetables,400 gms
+1006,9178897092,Apple Red (Seb),225,181,44,3,Fruits & Vegetables,4 U
+1007,B00004RFNY,Fresh Dragon Fruit (Pitaya),130,85,45,3,Fruits & Vegetables,1 Unit
+1008,9177127145,Raw Banana (Kela) Madras,55,32,23,3,Fruits & Vegetables,4 pcs
+1009,B00004RFKN,Fresh Apple Fuji,225,195,30,3,Fruits & Vegetables,4 U
+1010,8742248043,Apple Red Delicious Turkey,225,165,60,3,Fruits & Vegetables,4 U
+1011,B00004S4U5,Fresh Capsicum Green (Shimla Mirch),45,30,15,3,Fruits & Vegetables,500 gms
+1012,B00004RHRL,Fresh Sweet Corn,50,38,12,3,Fruits & Vegetables,2 U
+1013,B00004RHR3,Fresh Capsicum Red & Yellow,75,65,10,3,Fruits & Vegetables,2 U
+1014,B00004S4UR,Fresh Cabbage - Red,40,35,5,3,Fruits & Vegetables,400 gms
+1015,1888861193,Fresh Broccoli,60,46,14,3,Fruits & Vegetables,300 gms
+1016,7536693001,Zucchini Green,60,46,14,3,Fruits & Vegetables,250 gms
+1017,B00004R94H,Zucchini Yellow,60,45,15,3,Fruits & Vegetables,250 gms
+1018,B00004RDEM,Fresh Lemon Grass,35,27,8,3,Fruits & Vegetables,150 gms
+1019,B00004RD9O,Fresh Baby Corn,25,20,5,3,Fruits & Vegetables,100 gms
+1020,B00004S1CW,Fresh Avocado,190,151,39,3,Fruits & Vegetables,1 U
+1021,184999949X,Fresh Apple Green,175,160,15,3,Fruits & Vegetables,4 U
+1022,B00004OCOO,Fresh Guava (Amarood),85,65,20,3,Fruits & Vegetables,4 U
+1023,B000040JQE,Fresh Onion (Pyaaj),35,24,11,3,Fruits & Vegetables,1 kg
+1024,619900017X,Fresh Potato (Aloo),40,25,15,3,Fruits & Vegetables,1 kg
+1025,B00004OCMJ,Coconut,50,39,11,3,Fruits & Vegetables,1 U
+1026,B00004RBT3,Garlic (Lahsun),55,39,16,3,Fruits & Vegetables,200 gms
+1027,B00004RDA4,Fresh Tomato (Tamaatar),30,19,11,3,Fruits & Vegetables,500 gms
+1028,B00004OCL9,Fresh Lemon (Nimboo),55,26,29,3,Fruits & Vegetables,5 U
+1029,B00002NC5N,Freshezza Frozen Green Peas,220,110,110,3,Fruits & Vegetables,1 kgs
+1030,B00004OCJ2,Ginger (Adrak),30,19,11,3,Fruits & Vegetables,200 gms
+1031,9085185726,Fresh Lady Finger (Bhendi),45,38,7,3,Fruits & Vegetables,500 gms
+1032,B00004OCNC,Fresh Cucumber White (Safed Kakdi),45,32,13,3,Fruits & Vegetables,500 gms
+1033,B00004RIXA,Sweet Potato (Ratala),65,45,20,3,Fruits & Vegetables,500 gms
+1034,B00002N99M,Safal Frozen Mixed Vegetables,60,55,5,3,Fruits & Vegetables,500 gms
+1035,B00004RDAT,Cauliflower (Ful Gobi),55,38,17,3,Fruits & Vegetables,500 gms
+1036,B00004OCMN,Fresh English Carrot (Gajar),50,29,21,3,Fruits & Vegetables,500 gms
+1037,B00004OCMC,Bottle Gourd (Dudhi),50,40,10,3,Fruits & Vegetables,500 gms
+1038,9178881927,Fresh Groundnut (Mungfali),45,35,10,3,Fruits & Vegetables,250 gms
+1039,B00002N8CU,Tender Coconut,75,60,15,3,Fruits & Vegetables,1 U
+1040,1888861304,Drumsticks (Shevgyacha Shenga),35,19,16,3,Fruits & Vegetables,250 gms
+1041,B00004S1BO,Fresh Brinjal (Bharta Baingan),40,32,8,3,Fruits & Vegetables,400 gms
+1042,B00004RHQ8,Fresh Green Chilli (Mirchi),15,11,4,3,Fruits & Vegetables,100 gms
+1043,9177129601,Cabbage (Patta Gobi),35,28,7,3,Fruits & Vegetables,500 gms
+1044,B00002NC5C,Fresh Beetroot (Chukandar),40,30,10,3,Fruits & Vegetables,500 gms
+1045,B00004RFPH,Fresh Colocasia (Arbi),50,38,12,3,Fruits & Vegetables,500 gms
+1046,0594006112,Sambhar Onion (Madras Onion),100,65,35,3,Fruits & Vegetables,500 gms
+1047,B00004RG9Z,Bitter Gourd (Karela),30,23,7,3,Fruits & Vegetables,300 gms
+1048,B00004RHOM,Fresh Brinjal Round (Kateri Wangi),40,28,12,3,Fruits & Vegetables,500 gms
+1049,B00004RIXJ,Fresh Elephant Foot Yam (Suran),40,28,12,3,Fruits & Vegetables,500 gms
+1050,B00002N602,Fresh Cluster Beans (Gavar),40,27,13,3,Fruits & Vegetables,250 gms
+1051,1727080084,Fresh Green Cucumber (Kakdi),40,30,10,3,Fruits & Vegetables,500 gms
+1052,B00004R92U,Fresh Sponge Gourd (Ghosale),45,30,15,3,Fruits & Vegetables,400 gms
+1053,B00004RDD5,Fresh White Onion,30,22,8,3,Fruits & Vegetables,500 gms
+1054,B00004OCI9,Fresh Disco Pumpkin (Kaddu/Bhopla),50,45,5,3,Fruits & Vegetables,1 U
+1055,B00004OCO6,Surf Excel Easy Wash Detergent Powder,460,369,91,4,Home & Kitchen,4 kgs
+1056,B00000K4C2,Tide Plus Detergent Powder - Jasmine & Rose,725,625,100,4,Home & Kitchen,6 kgs
+1057,B00004RDB1,Surf Excel Matic Top Load Detergent Powder,1050,749,301,4,Home & Kitchen,4 kgs
+1058,B00004OCMX,Surf Excel Matic Front Load Detergent Powder,1150,899,251,4,Home & Kitchen,4 kgs
+1059,B00004RFMM,Rin Advanced Detergent Powder,525,414,111,4,Home & Kitchen,7 kgs
+1060,7807571896,Ariel Matic Top Load Detergent Washing Powder With Container,1050,879,171,4,Home & Kitchen,4 kgs
+1061,B00004RG95,Tide Plus Detergent Powder - Lemon & Mint,215,180,35,4,Home & Kitchen,2 kgs
+1062,B00002NBT3,Surf Excel Matic Liquid Detergent Top Load Pouch,380,290,90,4,Home & Kitchen,2 Litres
+1063,B00004R8Y2,Ariel Matic Front Load Detergent Washing Powder,1150,899,251,4,Home & Kitchen,4 kgs
+1064,B00004RC3E,Surf Excel Matic Liquid Detergent Front Load Pouch,415,335,80,4,Home & Kitchen,2 Litres
+1065,B00004R92H,Rin Ala Fabric Whitener,64,43,21,4,Home & Kitchen,500 ml
+1066,B00004OCJT,Star Light Fabric Whitener,60,30,30,4,Home & Kitchen,500 ml
+1067,B00004RIYS,Rin Detergent Bar,64,56,8,4,Home & Kitchen,4x250 gms
+1068,B00004OCOL,Star Light Detergent Bar,48,40,8,4,Home & Kitchen,4x250 gms
+1069,B00004R93P,Ariel Complete Detergent Powder,280,255,25,4,Home & Kitchen,1 kg
+1070,B00004RDCY,Surf Excel Detergent Bar,94,79,15,4,Home & Kitchen,4x200 gms
+1071,B00004OCLC,Comfort After Wash Anti Bacterial Fabric Conditioner,225,178,47,4,Home & Kitchen,860 ml
+1072,B00004RIZY,Wheel Green Lemon & Jasmine Detergent Powder,54,49,5,4,Home & Kitchen,1 kg
+1073,B00004S4TS,Comfort After Wash Morning Fresh Fabric Conditioner,225,194,31,4,Home & Kitchen,860 ml
+1074,192501164X,Sof N Fluffy Fabric Conditioner,220,110,110,4,Home & Kitchen,800 ml
+1075,B00004RHMJ,Comfort After Wash Lily Fresh Fabric Conditioner,225,185,40,4,Home & Kitchen,860 ml
+1076,9178899788,Ghadi Detergent Powder,168,148,20,4,Home & Kitchen,3 kgs
+1077,B00004RHPS,Rin Refresh Lemon & Rose Detergent Powder,75,69,6,4,Home & Kitchen,1 kg
+1078,9178906385,Surf Excel Quick Wash Detergent Powder,185,169,16,4,Home & Kitchen,1 kg
+1079,1842104780,Ariel Matic Top Load Liquid Detergent,440,375,65,4,Home & Kitchen,2 Litres
+1080,097857141X,Wheel Active Blue Powder,54,48,6,4,Home & Kitchen,1 kg
+1081,B00000IRSI,Ariel Matic Front Load Liquid Detergent,500,440,60,4,Home & Kitchen,2 Litres
+1082,B00004S4V1,Vanish Liquid Stain Remover,207,192,15,4,Home & Kitchen,800 ml
+1083,B00004RFMQ,Vanish Oxi Action Stain Remover,207,192,15,4,Home & Kitchen,400 gms
+1084,B00004RD9X,Henko Stain Champion Oxygen Power Washing Powder,730,655,75,4,Home & Kitchen,5 kgs
+1085,7504149101,Tide Naturals Detergent Powder Lemon & Chandan,60,56,4,4,Home & Kitchen,800 gms
+1086,B00004RFLB,Genteel Liquid Detergent,198,165,33,4,Home & Kitchen,1 kg
+1087,B00004S4TO,Godrej Ezee Liquid Detergent,175,160,15,4,Home & Kitchen,1 kg
+1088,B00004RFJ8,Tide Detergent Bar,78,71,7,4,Home & Kitchen,5x200 gms
+1089,B00004RHQF,Surf Excel Matic Top Load Detergent Powder (Pouch),449,349,100,4,Home & Kitchen,2 kgs
+1090,B00004RDE1,Sunlight Detergent Bar,20,18,2,4,Home & Kitchen,150 gms
+1091,B00004OCJC,Dhanthak's BB Detergent Soap,70,65,5,4,Home & Kitchen,600 gms
+1092,492120523X,Mr. White Detergent Powder,485,435,50,4,Home & Kitchen,5 kgs
+1093,9533223804,Surf Excel Matic Front Load Detergent Powder (Pouch),530,399,131,4,Home & Kitchen,2 kgs
+1094,9895502257,Henko Matic Lintelligent Front Load Detergent Washing Powder,455,409,46,4,Home & Kitchen,2 kgs
+1095,9178893690,Ariel Colour Detergent Powder,580,539,41,4,Home & Kitchen,3 kgs
+1096,B00002N83P,Wheel Active 2 In 1 Detergent Bar,10,9,1,4,Home & Kitchen,250 gms
+1097,7801408306,Wipro Safewash Top Load Liquid Detergent Pouch,370,275,95,4,Home & Kitchen,2 Litres
+1098,B00004RGBT,Ghadi Detergent Cake,16,14,2,4,Home & Kitchen,300 gms
+1099,B00004RGB7,Tide Matic 3 In 1 Pods Detergent Pack,432,388,44,4,Home & Kitchen,18 Units
+1100,B00004RDD3,Ujala Supreme Fabric Whitener,70,65,5,4,Home & Kitchen,250 ml
+1101,B00004S4UC,Wheel Detergent Bar,13,12,1,4,Home & Kitchen,150 gms
+1102,1888861177,Wipro Safewash Fabric Conditioner Garden Bouquet,220,192,28,4,Home & Kitchen,860 ml
+1103,B0000223YB,Ariel Matic Liquid Detergent,230,199,31,4,Home & Kitchen,1 Litre
+1104,0977271609,Star Light Detergent Bar,10,6,4,4,Home & Kitchen,150 gms
+1105,B00004OCN4,Henko Matic Lintelligent Top Load Detergent Powder,374,315,59,4,Home & Kitchen,2 kgs
+1106,7208079447,Sunny Premium Green Cleaner,200,119,81,4,Home & Kitchen,1 Litre
+1107,B00004RFMX,Phenox Strong Disinfectant Cleaner,150,94,56,4,Home & Kitchen,1 Litre
+1108,B00004R91A,Lizol Disinfectant Surface Cleaner - Citrus,380,349,31,4,Home & Kitchen,2 Litres
+1109,B00004RFQ1,Lizol Disinfectant Surface Cleaner - Floral,380,336,44,4,Home & Kitchen,2 Litres
+1110,9619000013,Sparkle Disinfectant Floor Cleaner - Floral,210,159,51,4,Home & Kitchen,2 Litres
+1111,9178889723,Sparkle Disinfectant Floor Cleaner - Citrus,210,159,51,4,Home & Kitchen,2 Litres
+1112,B00004RIXK,Kli-nol Premium Concentrate Floor Cleaner,199,129,70,4,Home & Kitchen,1 Litre
+1113,0783433891,Domex Disinfectant Floor Cleaner,189,165,24,4,Home & Kitchen,1 Litre
+1114,B00004RHNZ,Glito 3 In 1 Perfumed Floor-Surface-Dish Cleaner,148,74,74,4,Home & Kitchen,1 Litre
+1115,7544241882,Glito Lime Perfumed Floor Cleaner,92,46,46,4,Home & Kitchen,1 Litre
+1116,B00004OCM9,Glito Jasmine Bliss Floor Cleaner,92,46,46,4,Home & Kitchen,1 Litre
+1117,1574891898,Wipro Maxkleen Disinfectant Floor Cleaner - Floral Bliss,93,75,18,4,Home & Kitchen,500 ml
+1118,B00004RFME,Wipro Maxkleen Disinfectant Floor Cleaner - Citrus Joy,93,73,20,4,Home & Kitchen,500 ml
+1119,B00004RFKC,Sparkle Disinfectant Floor Cleaner - Lavender,210,159,51,4,Home & Kitchen,2 Litres
+1120,B00002NBWX,Mr Muscle Citrus Floor Cleaner,125,101,24,4,Home & Kitchen,1 Litre
+1121,B00004S4U9,Harpic Power Plus Toilet Cleaner - Original,299,269,30,4,Home & Kitchen,2x1 Litre
+1122,B00004S4TI,Harpic Bathroom Cleaner Lemon,181,164,17,4,Home & Kitchen,1 Litre
+1123,B00004S1DC,Domex Disinfectant Expert Toilet Cleaner,180,155,25,4,Home & Kitchen,1 Litre
+1124,B00002N85C,Harpic Floral Bathroom Cleaner,181,159,22,4,Home & Kitchen,1 Litre
+1125,9178898005,Glito Super Thick Toilet Cleaner,168,84,84,4,Home & Kitchen,1 Litre
+1126,B00004RFK6,Sani Fresh Toilet Cleaner,140,90,50,4,Home & Kitchen,1 Litre
+1127,188650301X,Force 10 Double Sided Hockey Brush,130,95,35,4,Home & Kitchen,1 Unit
+1128,B00004RFJG,Harpic Flushmatic Toilet Cleaner,204,189,15,4,Home & Kitchen,150 gms
+1129,B000003OJW,Harpic Flushmatic Twin Aquamarine,146,135,11,4,Home & Kitchen,100 gms
+1130,B00004OCKX,Harpic Hygienic Toilet Citrus Rim Block,78,72,6,4,Home & Kitchen,26 gms
+1131,B00004RDAY,Harpic Hygienic Toilet Rim Block - Lavender,78,72,6,4,Home & Kitchen,26 gms
+1132,B00004R919,Harpic Power Plus Toilet Cleaner - Original,178,164,14,4,Home & Kitchen,1 Litre
+1133,B00004RDFY,Harpic Flushmatic Twin Pine,146,134,12,4,Home & Kitchen,100 gms
+1134,B00004R90V,Force 10 Power Max Toilet Cleaner,75,49,26,4,Home & Kitchen,750 ml
+1135,1438823029,Harpic Hygienic Toilet Rim Block - Jasmine,78,72,6,4,Home & Kitchen,26 gms
+1136,1933516100,Force 10 Bathroom Cleaner,80,49,31,4,Home & Kitchen,500 ml
+1137,0130350591,Harpic Marine Splash Toilet Rim Block,179,165,14,4,Home & Kitchen,35 gms
+1138,1574890824,Force 10 Bathroom Cleaner,155,89,66,4,Home & Kitchen,1 Litre
+1139,B00000DMDJ,Dettol Disinfectant Spray - Original Pine,159,147,12,4,Home & Kitchen,170 gms
+1140,B00004RC6I,Pitambari Shining Powder,58,41,17,4,Home & Kitchen,200 gms
+1141,1888861371,Colin Glass Cleaner Pump,93,86,7,4,Home & Kitchen,500 ml
+1142,B00004RFN5,Pitambari Rooperi Silver Shine,110,76,34,4,Home & Kitchen,50 ml
+1143,B00004R930,Mr. Muscle Kiwi Dranex Drain Cleaner,25,22,3,4,Home & Kitchen,50 gms
+1144,B00004RFJ4,Glito Glass Cleaner,89,80,9,4,Home & Kitchen,500 ml
+1145,9178893836,Drenfix Drain Cleaner,25,12,13,4,Home & Kitchen,50 gms
+1146,B00004RFOB,Colin Glass Cleaner Refill Pouch,159,147,12,4,Home & Kitchen,1 Litre
+1147,B00002NC5V,Sparkle Disinfectant Glass Cleaner,75,54,21,4,Home & Kitchen,500 ml
+1148,0977061604,Sparkle Disinfectant Glass Cleaner Refill,110,55,55,4,Home & Kitchen,1 Litre
+1149,B00004RD9Z,Vim Dishwash Liquid Gel Can - Lemon,370,305,65,4,Home & Kitchen,1.8 Litres
+1150,9178902207,Vim Dishwash Liquid Gel Lemon Refill Pouch,180,135,45,4,Home & Kitchen,900 ml
+1151,B00004RFJL,Reflect Super Lemon Power Dishwash Concentrated Gel,109,85,24,4,Home & Kitchen,1 Litre
+1152,B00004RFN2,Vim Dishwash Bar,45,39,6,4,Home & Kitchen,3x200 gms
+1153,7506341603,Reflect Lemon Power Dishwash Bar,44,29,15,4,Home & Kitchen,3x200 gms
+1154,B00004OCIR,Vim Dishwash Bar Anti Smell With Pudina,52,40,12,4,Home & Kitchen,3x200 gms
+1155,B00004RAAX,Reflect Dishwash Liquid Bottle,89,70,19,4,Home & Kitchen,750 ml
+1156,B00004RG9V,Reflect Jugmug Metal Shining Powder,38,19,19,4,Home & Kitchen,200 gms
+1157,B00004OCKG,Exo Anti-Bacterial Dishwash Bar,67,56,11,4,Home & Kitchen,700 gms
+1158,B00004R8YJ,Reflect Lemon Power Dishwash Round Bar,45,30,15,4,Home & Kitchen,500 gms
+1159,B00004RFP7,Patanjali Super Dishwash Bar,10,9,1,4,Home & Kitchen,160 gms
+1160,B00004RDBL,Pril Lime Dishwash Liquid,395,355,40,4,Home & Kitchen,2 Litres
+1161,B00004R8YL,Gala Kitchen Sponge Wipe,220,198,22,4,Home & Kitchen,5 Wipes
+1162,064180556X,Gala Super Scrub,85,70,15,4,Home & Kitchen,2 Units
+1163,B00004RC76,Reflect Scrub Pads - 7.5x10 cm,69,29,40,4,Home & Kitchen,5 Units
+1164,B00004RDDP,Scotch Brite Scrub Sponge Large,105,81,24,4,Home & Kitchen,3 Units
+1165,B00004RHO6,Glito Lime Dishwash Concentrate Gel,104,52,52,4,Home & Kitchen,500 ml
+1166,B00004R935,Scotch Brite Scrub Pad,100,94,6,4,Home & Kitchen,10 Units
+1167,B00002NC5I,Gala Swash Stain Steel Scourer,35,17,18,4,Home & Kitchen,1 Unit
+1168,B00004RFO1,Pril Perfect Tamarind Dishwash Liquid,165,140,25,4,Home & Kitchen,750 ml
+1169,B00002N600,Gala Sponge Wipe Set,145,129,16,4,Home & Kitchen,3 Units
+1170,9177129350,Reflect Sponge Wipe - 20x17.5 cm,199,149,50,4,Home & Kitchen,5 Units
+1171,B00004RFNS,Pril Dishwash Bar,102,92,10,4,Home & Kitchen,3x360 gms
+1172,B00004RDDR,Scotch Brite Steel Scrubber,105,89,16,4,Home & Kitchen,3 Units
+1173,B00004R91N,Reflect Scrub Sponge Pad - 10x7 cm,45,29,16,4,Home & Kitchen,2 Units
+1174,B00000105R,Scotch Brite Stainless Scrubber + Scrub Pad Combo,30,15,15,4,Home & Kitchen,1 Unit
+1175,B00004RFMW,Scotch Brite Steel Scrub,35,33,2,4,Home & Kitchen,1 Unit
+1176,B00000J9DV,Gala Scrub Pad,75,67,8,4,Home & Kitchen,5 Units
+1177,B00004RDBW,Scotch Brite Silver Spark Scrub Pads,90,69,21,4,Home & Kitchen,6 Units
+1178,B00004R93N,Scotch Brite Microfiber Scrubby Kitchen Wipe,169,129,40,4,Home & Kitchen,1 Wipe
+1179,B00004S1C4,Vim Dishwash Liquid Gel Lemon Bottle,45,41,4,4,Home & Kitchen,250 ml
+1180,1574866893,Giffy Concentrated Dish Wash Gel,155,125,30,4,Home & Kitchen,750 ml
+1181,B00004OCOP,Giffy Lemon & Active Salt Dish Wash Gel,209,104,105,4,Home & Kitchen,900 ml
+1182,B00002N624,Reflect Handle Scrubber,109,55,54,4,Home & Kitchen,1 Unit
+1183,7535549756,Ho Scotch Brite Power Scrub,50,47,3,4,Home & Kitchen,1 Unit
+1184,9178889669,Gala Super Scrub,45,37,8,4,Home & Kitchen,1 Unit
+1185,9085185386,Reflect Dishwash Gel Pouch,59,42,17,4,Home & Kitchen,500 ml
+1186,B00002N8CY,Good Knight Advanced Activ + Refill,134,114,20,4,Home & Kitchen,2x45 ml
+1187,B00004S1BX,Hit Spray Flying Insect Killer - Lime Fragrance,275,219,56,4,Home & Kitchen,625 ml
+1188,B00004RFOQ,Hit Spray Crawling Insect Killer (Cik),182,163,19,4,Home & Kitchen,400 ml
+1189,1892069148,Hit Spray Mosquitoes and Flies,275,245,30,4,Home & Kitchen,625 ml
+1190,1605168548,Odonil Air Freshener Multi Piece Pack,216,185,31,4,Home & Kitchen,3x75 gms
+1191,B00002NC28,Good Knight Activ+ Cartridge Lavender,134,114,20,4,Home & Kitchen,2x45 ml
+1192,B00004RFK7,All Out Ultra Day & Night Protection - Refill,134,99,35,4,Home & Kitchen,2x45 ml
+1193,0912696591,Goodknight Gold Flash Twin Pack,146,115,31,4,Home & Kitchen,2x45 ml
+1194,B00004RFNR,Hit Anti-Roach Gel,259,225,34,4,Home & Kitchen,20 gms
+1195,0587218959,Good Knight Gold Flash Refill,288,245,43,4,Home & Kitchen,4x45 ml
+1196,722104810X,Godrej Aer Spray - Cool Surf Blue,149,115,34,4,Home & Kitchen,240 ml
+1197,B00004RDFM,Good Knight Gold Flash (1 Machine + 2 Refills x 45 ml),164,140,24,4,Home & Kitchen,1 U
+1198,B00004OCK7,Winall Naphthalene Balls,154,77,77,4,Home & Kitchen,400 gms
+1199,161659232X,Baygon Cockroach Killer Spray,266,218,48,4,Home & Kitchen,625 ml
+1200,0740794183,All Out 1 Machine + 2 Refills,150,103,47,4,Home & Kitchen,45 ml
+1201,B00002N5ZS,Hit Spray Crawling Insect Killer,101,85,16,4,Home & Kitchen,200 ml
+1202,7502151168,Good Knight Gold Flash Machine & Refill,89,80,9,4,Home & Kitchen,45 ml
+1203,B00002N62F,Odonil Nature Lavender Air Freshener Zipper,55,40,15,4,Home & Kitchen,10 gms
+1204,9178898951,Mangalam Campure Camphor Cone - Original,199,135,64,4,Home & Kitchen,60 gms
+1205,B00004RDFG,Odonil Nature Citrus Air Freshener Zipper,55,45,10,4,Home & Kitchen,10 gms
+1206,1888861347,Godrej Aer Morning Spray,149,99,50,4,Home & Kitchen,240 ml
+1207,B00004RFO8,Ambi Pur Lavender Bouquet Air Freshener Spray,279,251,28,4,Home & Kitchen,275 gms
+1208,9178890519,Mortein All-Insect Killer (AIK),280,255,25,4,Home & Kitchen,600 ml
+1209,8742248299,Good Knight Advanced Lavender Refill,72,64,8,4,Home & Kitchen,45 ml
+1210,B00002N6SQ,Odonil Lavender Mist Room Freshener,380,190,190,4,Home & Kitchen,340 gms
+1211,B00004RHPC,Winall French Lavender Air Freshener,47,23,24,4,Home & Kitchen,50 gms
+1212,B00004RC3F,Mangalam Campure Camphor Cone - Sandalwood,199,135,64,4,Home & Kitchen,60 gms
+1213,9178905656,Odonil Jasmine Room Freshener,380,190,190,4,Home & Kitchen,340 gms
+1214,B00004RC40,Odonil Nature Jasmine Air Freshener Zipper,55,40,15,4,Home & Kitchen,10 gms
+1215,B00000IZEC,Odonil Scintillating Rose Zipper,55,45,10,4,Home & Kitchen,10 gms
+1216,7533258932,Winall Naphthalene Balls,78,39,39,4,Home & Kitchen,200 gms
+1217,9177126068,Winall Premium Sanicubes,79,45,34,4,Home & Kitchen,200 gms
+1218,B00002N982,Winall Jasmine Bliss Air Freshener,47,23,24,4,Home & Kitchen,50 gms
+1219,B00004S4V6,Mangalam Campure Camphor Mini Sticks,150,135,15,4,Home & Kitchen,12x4 gms
+1220,B00004OCNU,Mangalam Campure Camphor Cone - Lavender,199,139,60,4,Home & Kitchen,60 gms
+1221,9178901642,Meadows Air Freshener Citrus Fresh,44,29,15,4,Home & Kitchen,10 gms
+1222,1605168521,Everfresh Naphthalene Balls,78,39,39,4,Home & Kitchen,200 gms
+1223,B00004OCIQ,Ambi Pur Sweet Berries Air Freshener Spray,279,250,29,4,Home & Kitchen,275 gms
+1224,B00004RC4S,Winall Exotic Rose Air Freshener,47,23,24,4,Home & Kitchen,50 gms
+1225,B00002NC59,Mangalam Campure Camphor Cone - Jasmine,199,135,64,4,Home & Kitchen,60 gms
+1226,B00004RFLF,Goodknight Gold Flash,75,67,8,4,Home & Kitchen,45 ml
+1227,B00004RKFN,Meadows Air Freshener Jasmine Glow,44,29,15,4,Home & Kitchen,10 gms
+1228,B00004RIY7,Odonil Jasmine Mist Air Freshener Block,70,65,5,4,Home & Kitchen,75 gms
+1229,7806717846,Mangalam Campure Camphor Cone - Rose,199,135,64,4,Home & Kitchen,60 gms
+1230,6022600308,Winall Bouquet Fresh Air Freshener,47,23,24,4,Home & Kitchen,50 gms
+1231,B00004RFS6,Mangalam Campure Camphor Regular Sticks,49,36,13,4,Home & Kitchen,18 gms
+1232,7101012663,Lovin Luxury Air Freshener Lemon,150,99,51,4,Home & Kitchen,125 gms
+1233,B00004OCMM,Lovin Luxury Air Freshener - Bouquet,150,99,51,4,Home & Kitchen,125 gms
+1234,B00004S4T6,Absorbia Moisture Absorber Classic,189,122,67,4,Home & Kitchen,300 gms
+1235,B00002N8C1,Meadows Air Freshener Floral Fresh,44,29,15,4,Home & Kitchen,10 gms
+1236,B00004RGBM,Godrej Aer Bathroom Fragrance - Fresh Lush Green,55,45,10,4,Home & Kitchen,10 gms
+1237,B0000223XP,Meadows Air Freshener Jasmine Glow,149,79,70,4,Home & Kitchen,240 ml
+1238,1983475912,Air Wick Freshmatic Lavender & Lotus (Machine+Refill),550,509,41,4,Home & Kitchen,250 ml
+1239,1933682108,Meadows Air Freshener Lavender Blossom,149,79,70,4,Home & Kitchen,240 ml
+1240,B00004R91M,Khatnil,240,205,35,4,Home & Kitchen,500 ml
+1241,B00004RHQK,Godrej Aer Bathroom Fragrance Berry Rush Pocket,55,47,8,4,Home & Kitchen,10 gms
+1242,B00004OCND,Godrej Aer Bathroom Fragrance Sea Breeze Pocket,55,47,8,4,Home & Kitchen,10 gms
+1243,B00004RFRQ,Godrej Aer Bathroom Fragrance Fresh Blossom Pocket,55,47,8,4,Home & Kitchen,10 gms
+1244,0980183227,Original Laxmanrekhaa Chalks,15,13,2,4,Home & Kitchen,1 Unit
+1245,B00004RBTJ,Godrej Aer Bathroom Fragrance Lavender Bloom Pocket,55,47,8,4,Home & Kitchen,10 gms
+1246,B00004OCO4,Godrej Aer Power Pocket Floral Delight,55,47,8,4,Home & Kitchen,10 gms
+1247,B0000223GP,Dettol Disinfectant Multi-Use Hygiene Liquid,193,173,20,4,Home & Kitchen,500 ml
+1248,7842955638,Savlon Surface Disinfectant Spray,159,148,11,4,Home & Kitchen,170 gms
+1249,B00004R93E,Bacto-V Gadget Disinfectant,249,215,34,4,Home & Kitchen,100 ml
+1250,9578840179,Dettol Disinfectant Spray Spring Blossom,159,149,10,4,Home & Kitchen,170 gms
+1251,1888861622,Veggie Clean - 100% Naturally Derived Cleaners,199,179,20,4,Home & Kitchen,400 ml
+1252,B00004RHQL,Philips UV-C Disinfection System,10990,7999,2991,4,Home & Kitchen,15 Litres
+1253,B00004RC50,Philips UV-C Disinfection System,12990,8999,3991,4,Home & Kitchen,30 Litres
+1254,B00004RFJ6,Hindalco Freshwrapp Aluminium Foil,435,345,90,4,Home & Kitchen,72 metres
+1255,B00004RG99,Hindalco Freshwrapp Aluminium Foil,87,75,12,4,Home & Kitchen,6 metres
+1256,9895502214,Oddy Uniwraps Food Wrapping Paper,199,99,100,4,Home & Kitchen,20 Metres
+1257,8875840245,Oddy Ecobake Baking & Cooking Parchment Paper,220,110,110,4,Home & Kitchen,20 Metres
+1258,1554761727,Hindalco Superwrap Standard Aluminium Foil,85,72,13,4,Home & Kitchen,90 gms
+1259,B00002N8CT,Origami So Soft Face Tissue,140,78,62,4,Home & Kitchen,200 Units
+1260,B00004R93H,CleanPlus Face Tissues,110,55,55,4,Home & Kitchen,200 Units
+1261,0740315048,Fresh Ones Soft & Silky Facial Tissues,85,42,43,4,Home & Kitchen,100 Units
+1262,B00004RG9F,Premier Special Face Tissue Pack,130,65,65,4,Home & Kitchen,200 Units
+1263,B00004S1CT,Origami So Soft Aloe Vera Wet Wipes,75,37,38,4,Home & Kitchen,25 Wipes
+1264,B00004RFND,Origami So Soft Wet Wipes Rose,75,37,38,4,Home & Kitchen,25 Wipes
+1265,B00004OCJG,Fresh Ones Green Apple Fresh Facial Wipe,85,42,43,4,Home & Kitchen,20 Wipes
+1266,7537189919,Fresh Ones Orange Fresh Facial Wipe,85,42,43,4,Home & Kitchen,20 Wipes
+1267,B00004OCJO,Fresh Ones Strawberry Fresh Facial Wipe,85,42,43,4,Home & Kitchen,20 Wipes
+1268,B00004OCMS,Unigreen Compostable Green Garbage Bag 19X21 Inches,99,59,40,4,Home & Kitchen,15 Bags
+1269,B00004OCL7,Crystal Compostable Garbage Bag 19x21 Inches,125,79,46,4,Home & Kitchen,15 Bags
+1270,B00004S4U7,Unigreen Compostable Blue Garbage Bag 19X21 Inches,99,59,40,4,Home & Kitchen,15 Bags
+1271,B00004RFNU,Earthmate Compostable Garbage Bag 25x30 Inches,250,119,131,4,Home & Kitchen,10 Units
+1272,B00004RIXP,Earthmate Compostable Garbage Bag 25x30 Inches,250,119,131,4,Home & Kitchen,10 Units
+1273,B00002N844,Premier Kitchen Towel,250,125,125,4,Home & Kitchen,4 Units
+1274,B00004RHRM,Clean Plus Kitchen Roll 60 Pulls,200,100,100,4,Home & Kitchen,4 Units
+1275,0641965974,Origami So Soft Godya 2-In-1 Kitchen Tissue Towel,140,70,70,4,Home & Kitchen,2 Units
+1276,8963293599,Taina Cocktail Napkins,50,25,25,4,Home & Kitchen,100 Units
+1277,B00002N84V,CleanPlus Party Tissues,40,20,20,4,Home & Kitchen,100 Units
+1278,1609960505,Jackson Party Tissue Box,74,51,23,4,Home & Kitchen,100 Units
+1279,B00002N8AY,Royal Cutie Tissue,35,17,18,4,Home & Kitchen,100 Units
+1280,B00004RGAS,Jackson Party Tissue Papers,69,48,21,4,Home & Kitchen,100 Units
+1281,B00004RGAX,Origami So Soft 2 Ply Tissues,65,32,33,4,Home & Kitchen,50 Units
+1282,B00004RFS8,Neko Germ Protection Large Wipe,199,149,50,4,Home & Kitchen,80 Wipes
+1283,B00004R8XY,Savlon Germ Protection Wipe,45,36,9,4,Home & Kitchen,10 Wipes
+1284,B00004RDCS,Origami So Soft 1 Ply Plain Napkins (Tissue),60,30,30,4,Home & Kitchen,100 Units
+1285,B00002N86C,Premier Serviette,60,30,30,4,Home & Kitchen,100 Units
+1286,B00004RFMK,Premier Toilet 2 Ply Tissue Roll,295,147,148,4,Home & Kitchen,10 Units
+1287,0756030242,Origami So Soft 3 Ply Tissue Rolls,225,112,113,4,Home & Kitchen,6 Units
+1288,1450823661,Taina Eco-Friendly 2 Ply Toilet Roll,285,142,143,4,Home & Kitchen,10 Units
+1289,188886124X,Jackson Toilet Rolls,350,261,89,4,Home & Kitchen,10 Units
+1290,1574890220,Premier Toilet Tissue,295,197,148,4,Home & Kitchen,10 Units
+1291,B00004OCNE,CleanPlus Toilet Rolls,250,125,125,4,Home & Kitchen,10 Units
+1292,9178900948,Scotch Brite Kitchen Sink Brush,135,109,26,4,Home & Kitchen,1 Unit
+1293,B00004R93U,Gala Quick Spin Mop,1799,1099,700,4,Home & Kitchen,1 Unit
+1294,0939431556,Scotch Brite Sponge Wipes - 17.5 cm x 15 cm,240,169,71,4,Home & Kitchen,4 Wipes
+1295,0988315815,Gala No-Dust Plastic Broom,190,149,41,4,Home & Kitchen,1 Unit
+1296,B00004RC3N,MST Big Floor Duster,150,115,35,4,Home & Kitchen,6 Units
+1297,B00004RC6Y,Scotch Brite Scrub Pad,75,65,10,4,Home & Kitchen,5 Units
+1298,B00004RHQM,Gala Laxmi Grass Broom,170,153,17,4,Home & Kitchen,1 Unit
+1299,0740317024,Gala Kingkong Grass Broom,185,166,19,4,Home & Kitchen,1 Unit
+1300,B00004RFIZ,Reflect Stainless Steel Scrub,15,10,5,4,Home & Kitchen,1 Unit
+1301,B00004RFLV,Scotch-Brite Sponge Wipe 20x17.5 cm,320,301,19,4,Home & Kitchen,5 Wipes
+1302,B00004RDAJ,Gala No Dust Broom XL,200,159,41,4,Home & Kitchen,1 Unit
+1303,9178911362,Spotzero Classic Spin Mop - Aqua Green,1699,899,800,4,Home & Kitchen,1 Unit
+1304,1574893122,Naag Brand 505 Grass Broom,130,89,41,4,Home & Kitchen,1 Unit
+1305,B00004RFMT,Gala Chandra Double Hockey Brush,140,126,14,4,Home & Kitchen,1 Unit
+1306,B00004RHMU,Gala Chandra Kharata Broom,100,75,25,4,Home & Kitchen,1 Unit
+1307,B00004RFK8,Gala Double Lip Bathroom Wiper,220,198,22,4,Home & Kitchen,1 Unit
+1308,1596687436,Spotzero Zero Dust Broom XL,199,99,100,4,Home & Kitchen,1 Unit
+1309,B00004RGAR,Scotch-Brite Jet Scrubber,140,125,15,4,Home & Kitchen,1 Unit
+1310,B00004OCJK,Scotch-Brite Scrub Sponge 10x6 cm,65,59,6,4,Home & Kitchen,2 Units
+1311,7213035835,Kitchen Napkin Blue 240 GSM - 45x45 cm,200,129,71,4,Home & Kitchen,6 Units
+1312,0641967969,Gala Toilex Square Brush with Square Container,220,198,22,4,Home & Kitchen,1 Unit
+1313,B00004R91U,Gala Deck Mop With Handle,175,157,18,4,Home & Kitchen,1 Unit
+1314,B00002NC5Z,Gala Microfiber Twist Mop,650,585,65,4,Home & Kitchen,1 Unit
+1315,1888861355,Scotch Brite Sponge Wipe,195,183,12,4,Home & Kitchen,3 Units
+1316,B00004RFPU,Gala Advanced Floor Cloth,210,189,21,4,Home & Kitchen,2 Units
+1317,9178892112,Gala Modular No Dust Broom,215,193,22,4,Home & Kitchen,1 Unit
+1318,B00004RHM8,Kitchen Napkin Pink 240 GSM - 45x45 cm,200,129,71,4,Home & Kitchen,6 Units
+1319,B00004R8YI,Gala Cloth Brush,99,89,10,4,Home & Kitchen,1 Unit
+1320,9177129520,Gala Floor Wiper,175,158,17,4,Home & Kitchen,1 Unit
+1321,1888861282,Scotch Brite Double Side Toilet Brush,225,212,13,4,Home & Kitchen,1 Unit
+1322,B00004R948,Gala Ezee Squeezee,130,117,13,4,Home & Kitchen,1 Unit
+1323,B00002N5Z6,MST Duster Monochex - Red (43x43 cm),70,59,11,4,Home & Kitchen,6 U
+1324,B00002NC5W,Handy Plus Household Gloves,75,49,26,4,Home & Kitchen,1 Unit
+1325,B000040JQC,Gala Toilean Toilet Brush,120,108,12,4,Home & Kitchen,1 Unit
+1326,B00004RHQA,Scotch-Brite Scrub Pad 10x14 cm,90,85,5,4,Home & Kitchen,3 Units
+1327,B00002NC6E,Gala Stylo Sink Brush,140,126,14,4,Home & Kitchen,1 Unit
+1328,B00004RDDV,MST Duster Monochex - Blue (43x43 cm),70,59,11,4,Home & Kitchen,6 U
+1329,0978736885,Gala Dual Floor Cloth (Pochha),110,99,11,4,Home & Kitchen,2 Units
+1330,B00004RDFH,Gala Dust Pan - Medium,65,52,13,4,Home & Kitchen,1 Unit
+1331,B00002NC6C,Scotch Brite Floor Cleaning Cloth Pocha - 48x51 cm,115,104,11,4,Home & Kitchen,2 Units
+1332,B00004RBRT,MST Duster Monochex Set - Maroon,70,59,11,4,Home & Kitchen,6 Units
+1333,B00004R92I,Scotch Brite Floor Squeegee - 40 cms,449,423,26,4,Home & Kitchen,1 Unit
+1334,B00003JAU5,Scotch Brite Cotton Handle Mop,375,353,22,4,Home & Kitchen,1 Unit
+1335,7539629754,Gala Spin Mop Rod Spare Rod,350,299,51,4,Home & Kitchen,1 Unit
+1336,B00004RC6N,Scotch-Brite Floor Squeeze 30 cm,400,376,24,4,Home & Kitchen,1 Unit
+1337,0982119712,Gala Super Scrub - Soft,65,58,7,4,Home & Kitchen,2 Units
+1338,B00004R91R,Spotzero Comfort Scrub,399,329,70,4,Home & Kitchen,1 Unit
+1339,B00004R933,Force 10 Handle Scrubber,109,84,25,4,Home & Kitchen,1 Unit
+1340,0740794124,Scotch-Brite Sponge Wipe 20x17.5 cm,70,60,10,4,Home & Kitchen,1 Wipe
+1341,917890398X,Scotch-Brite Scrub Pad 7.5x10 cm,40,38,2,4,Home & Kitchen,3 Units
+1342,B00004RHNW,Scotch Brite Microfiber Kitchen Wipe,179,129,50,4,Home & Kitchen,1 Wipe
+1343,B00004RDCB,Gala Clip N Fit Cotton Mop,365,329,36,4,Home & Kitchen,1 Unit
+1344,9178905257,Scotch-Brite Scrub Pad 7.5x10 cm,60,30,30,4,Home & Kitchen,4 Units
+1345,B00002N832,Scotch-Brite Scrub -Net Sponge 11x7 cm,40,38,2,4,Home & Kitchen,1 Unit
+1346,B00004RHPV,Gala Iron Bull Scrub Pad,120,99,21,4,Home & Kitchen,1 Unit
+1347,7030243285,Reflect Sponge Wipe,149,99,50,4,Home & Kitchen,3 U
+1348,B00004RDEC,Crystal Stainless Steel Small Strainer,135,109,26,4,Home & Kitchen,1 Unit
+1349,9178900719,Glass Cloth Towel White 220 GSM - 58x58 cm,150,89,61,4,Home & Kitchen,3 Units
+1350,B00004RHQ6,Hem Soham Rose Agarbathi,110,75,35,4,Home & Kitchen,250 gms
+1351,8805000981,Hem Soham Pama Incense Sticks,100,50,50,4,Home & Kitchen,175 gms
+1352,9178893526,Gowardhan Cow Ghee,599,525,74,4,Home & Kitchen,1 Litre
+1353,9178897440,Om Shanthi Chandanam Pure Puja Oil,185,135,50,4,Home & Kitchen,1 Litre
+1354,B00004RHPA,Mangalmai Puja Lamp and Diya Oil,190,169,21,4,Home & Kitchen,900 ml
+1355,B00004OCM8,Mangalam Pure Camphor Pouch,175,149,26,4,Home & Kitchen,100 gms
+1356,1931432864,Cycle 3 In 1 Pure Agarbathi,125,99,26,4,Home & Kitchen,265 gms
+1357,B00004RFRR,Om Shanthi Parijata Puja Oil,198,145,53,4,Home & Kitchen,1 Litre
+1358,7802135818,Om Shanthi Saadana Pure Puja Oil,185,135,50,4,Home & Kitchen,1 Litre
+1359,1932648623,Mangaldeep Sandalwood Pooja Agarbatti,70,35,35,4,Home & Kitchen,114 Units
+1360,B00004S4V3,Mangaldeep 4 in 1 Puja Agarbattis,65,32,33,4,Home & Kitchen,114 Units
+1361,B00004RDCC,Mangaldeep Mogra Puja Agarbattis,65,32,33,4,Home & Kitchen,114 Units
+1362,B00004RIXR,Mangalam Pure Camphor,195,149,46,4,Home & Kitchen,100 gms
+1363,B00004RG9G,Kaveri Camphor,195,149,46,4,Home & Kitchen,100 gms
+1364,9178883261,Hem Soham But Mogra Agarbathi,110,75,35,4,Home & Kitchen,250 gms
+1365,B00004RDE6,Cycle All In 1 Pure Agarbathi,150,99,51,4,Home & Kitchen,191 Units
+1366,B00004R91O,Cycle Woods Agarbathi,125,95,30,4,Home & Kitchen,36 Units
+1367,1605161209,Mangaldeep Rose Pooja Agarbatti,65,32,33,4,Home & Kitchen,114 Units
+1368,1574892398,Cycle Durgeshwari Sambrani Dhoop,24,18,6,4,Home & Kitchen,24 Units
+1369,9178905052,Cycle Navin Pure Sambrani,72,57,15,4,Home & Kitchen,10 Units
+1370,B00004RFJW,Mysore Sandal Dhoop,30,25,5,4,Home & Kitchen,20 Units
+1371,B00004R90W,Heritage Chandanam Prayer Sticks,120,95,25,4,Home & Kitchen,225 gms
+1372,B00004RIZZ,Hem Soham Champa Agarbathi,110,75,35,4,Home & Kitchen,250 gms
+1373,B00004RBT1,Hem Soham Sandal Agarbathi,115,80,35,4,Home & Kitchen,250 gms
+1374,B00004S1AS,Ship Safety Matches,10,9,1,4,Home & Kitchen,1 Unit
+1375,B00004RC6R,Hem Shubh Kaamana Masala Agarbatti,65,32,33,4,Home & Kitchen,80 gms
+1376,B00004S4TH,Hem Soham 4 In One Agarbatti,70,35,35,4,Home & Kitchen,150 gms
+1377,B00004R91C,Homelites Safety Matches,10,9,1,4,Home & Kitchen,1 Unit
+1378,B00004RFPR,Laxmi Dhoop,18,14,4,4,Home & Kitchen,8 Units
+1379,7807425490,Cycle 3 In 1 Pure Agarbathi Classic,65,50,15,4,Home & Kitchen,132 gms
+1380,9128500059,Prasanna Jyot Cow Ghee Diya,79,57,22,4,Home & Kitchen,15 Units
+1381,4990256107,Kaveri Camphor,100,79,21,4,Home & Kitchen,50 gms
+1382,1888861142,Shubhkart Mogra Agarbatti,110,55,55,4,Home & Kitchen,250 gms
+1383,7203057151,Shubhkart Sandalwood Agarbatti,55,27,28,4,Home & Kitchen,150 gms
+1384,0307394530,Shubhkart Champa Agarbatti,110,55,55,4,Home & Kitchen,250 gms
+1385,B00004RFPZ,Prasanna Jyot Vanaspati Ghee Diya,49,40,9,4,Home & Kitchen,15 Units
+1386,B00004RFJM,Siddhi Cotton,27,16,11,4,Home & Kitchen,30 gms
+1387,B00004OCMV,Siddhi Samai Wati Long,12,9,3,4,Home & Kitchen,10 gms
+1388,B00004RDEO,Shubhkart Chandan Agarbatti,110,55,55,4,Home & Kitchen,250 gms
+1389,B00004OCOA,Navin Sambrani,12,9,3,4,Home & Kitchen,12 Units
+1390,B00004RGAF,Manohar Special Keshar Ashtagandha,28,22,6,4,Home & Kitchen,20 gms
+1391,B00004S1CV,Mangaldeep French Lavender Premium Agarbattis,70,35,35,4,Home & Kitchen,106 Sticks
+1392,9178884284,Mangaldeep Anushri Fresh Florals Puja Agarbattis,70,35,35,4,Home & Kitchen,130 Sticks
+1393,9085187559,Mangaldeep Anushri Sweet Florals Puja Agarbattis,70,35,35,4,Home & Kitchen,130 Sticks
+1394,B00004RDE5,Om Shanthi Jasmine Pure Puja Oil,198,139,59,4,Home & Kitchen,1 Litre
+1395,7040229455,Zebronics TU240C Type C Charging Cable,349,99,250,4,Home & Kitchen,1 Unit
+1396,B0000223B8,Geep Micro USB High Speed Charging Cable (1 Metre),299,49,250,4,Home & Kitchen,1 Unit
+1397,B00002ND4X,Geep Type-C Charging Cable GPCC4010 C,499,79,420,4,Home & Kitchen,1 Unit
+1398,784295562X,Geep Extreme USB Power Strip,879,299,580,4,Home & Kitchen,1 Unit
+1399,B00004RHNA,Nippo 4D Gold AAA Battery,150,99,51,4,Home & Kitchen,10 Units
+1400,B00004RGAO,Eveready 1015 AA Battery,150,125,25,4,Home & Kitchen,10 Units
+1401,B00004RDCI,Nippo 3D Gold AA Battery,150,99,51,4,Home & Kitchen,10 Units
+1402,B00004S4TG,Eveready AAA 1012 Battery,150,125,25,4,Home & Kitchen,10 Units
+1403,B00004RFQL,Duracell AAA Battery,160,145,15,4,Home & Kitchen,4 Units
+1404,B00004RFKS,Duracell AA Battery,160,145,15,4,Home & Kitchen,4 Units
+1405,B00004RGAG,Duracell AA Battery,252,225,27,4,Home & Kitchen,6 Units
+1406,B00004S4UV,Duracell AAA Battery,84,75,9,4,Home & Kitchen,2 Units
+1407,B00004RGAP,Duracell AA Battery,84,75,9,4,Home & Kitchen,2 Units
+1408,B00004R8ZX,Nippo 3D Bolt AA Battery,40,35,5,4,Home & Kitchen,2 Units
+1409,B00004RFLR,Duracell AAA Batteries,252,225,27,4,Home & Kitchen,6 Units
+1410,061533301X,Pedigree Adult Dog Food - Chicken & Vegetables,620,527,93,4,Home & Kitchen,3 kgs
+1411,B00004S1CK,Whiskas Adult Ocean Fish Flavour (1+ Years),410,348,62,4,Home & Kitchen,1.2 kgs
+1412,B00004RC6J,Pedigree Adult Dog Food Chicken & Liver Chunks Flavour In Gravy,35,29,6,4,Home & Kitchen,70 gms
+1413,710105482X,Pedigree Puppy Food - Chicken & Milk,650,552,98,4,Home & Kitchen,3 kgs
+1414,B00004RBTC,Whiskas Adult Chicken In Gravy (1+ Years),35,29,6,4,Home & Kitchen,85 gms
+1415,9178895723,Whiskas Kitten Chicken In Gravy (2-12 Months),35,29,6,4,Home & Kitchen,85 gms
+1416,B00004RDB3,Pedigree Dentastix Medium,160,136,24,4,Home & Kitchen,180 gms
+1417,B00004RBTK,Pedigree Puppy Chicken Chunks Gravy Food,35,29,6,4,Home & Kitchen,70 gms
+1418,B00004S1BU,Pedigree Adult Dog Food - Meat & Rice,620,527,93,4,Home & Kitchen,3 kgs
+1419,B00002N630,Pedigree Meat Jerky,130,110,20,4,Home & Kitchen,80 gms
+1420,7532471195,Pedigree Jumbone,130,110,20,4,Home & Kitchen,200 gms
+1421,B00004S1DM,Cherry Black Blossom Polish,63,58,5,4,Home & Kitchen,40 gms
+1422,B00004R92L,Cherry Dark Tan Blossom Shoe Polish,59,58,1,4,Home & Kitchen,40 gms
+1423,B00004OCLE,Cherry Blossom Shoe Polish - Black,33,31,2,4,Home & Kitchen,15 gms
+1424,7800649962,Kellogg's Corn Flakes with Real Almond & Honey,550,435,115,1,Groceries,1 kg
+1425,7802401399,Kellogg's Corn Flakes Original,310,278,32,1,Groceries,875 gms
+1426,B00004R8ZL,Kellogg's Chocos,470,385,85,1,Groceries,1200 gms
+1427,B00004R8YD,Nutri Delite Chocoflakes,10,5,5,1,Groceries,22 gms
+1428,B00004RC4B,Kellogg's Chocos Variety Pack,60,47,13,1,Groceries,156 gms
+1429,B00004S4U2,Kellogg's Special K Original,399,309,90,1,Groceries,900gm
+1430,B00004S4UY,Bagrry's Corn Flakes,330,165,165,1,Groceries,800 gms
+1431,B00002N5VQ,Kellogg's All Bran Wheat Flakes,205,155,50,1,Groceries,425 gms
+1432,B00004RFRZ,Kwality Corn Flakes Pouch,199,92,107,1,Groceries,500 gms
+1433,9178908175,Kwality Cornflakes Combi Pack,60,30,30,1,Groceries,120 gms
+1434,0749568275,Kellogg's Chocos Crunchy Bites,180,162,18,1,Groceries,375 gms
+1435,B00004RHRX,Quaker Oats,260,200,60,1,Groceries,1.5 kgs
+1436,0979531624,Saffola Masala Oats Classic,195,165,30,1,Groceries,500 gms
+1437,8742248027,Bagrry's White Oats,190,120,70,1,Groceries,1 kg
+1438,B00004RDAK,Saffola Masala Oats Veggie Twist,195,170,25,1,Groceries,500 gms
+1439,B00002N5FO,Saffola Masala Oats Peppy Tomato,195,165,30,1,Groceries,500 gms
+1440,7801157176,Kellogg's Oats,195,97,98,1,Groceries,1 kg
+1441,7500667345,Nutri Delite Oats,190,95,95,1,Groceries,1 kg
+1442,604212983X,Kellogg's Crunchy Muesli Fruit And Nut,430,375,55,1,Groceries,750 gms
+1443,B00002N8DE,Bagrry's Crunchy Muesli with Almonds-Raisins-Honey,575,415,160,1,Groceries,1 kg
+1444,B00004RFJS,Gaia Crunchy Muesli,575,287,288,1,Groceries,1 kg
+1445,B00004RFMD,Kellogg's Muesli Nuts Delight,415,310,105,1,Groceries,750 gms
+1446,B0000223XA,Gaia Crunchy Muesli Mixed Fruit,575,287,288,1,Groceries,1 kg
+1447,1439347069,Kellogg's Chocolate & Almonds Crunchy Granola,330,295,35,1,Groceries,450 gms
+1448,B00004OCMT,Knorr Classic Thick Tomato Soup,55,49,6,5,Soups,53 gms
+1449,B00004RFK5,Knorr International Hong Kong Manchow Noodle Soup,65,60,5,5,Soups,46 gms
+1450,B0000223YA,Knorr Classic Sweet Corn Veg Soup,55,50,5,5,Soups,44 gms
+1451,B00004RBTA,Knorr Classic Hot & Sour Veg Soup,55,49,6,5,Soups,43 gms
+1452,B00004R915,Knorr Instant Tomato Chatpata Cup A Soup,10,9,1,5,Soups,14 gms
+1453,7537729697,Knorr Manchow Veg Cup-A-Soup,10,9,1,5,Soups,12 gms
+1454,B00004OCJ1,Knorr Classic Chicken Delite Soup,55,50,5,5,Soups,44 gms
+1455,B00004RDED,Knorr Classic Mixed Vegetable Soup,55,49,6,5,Soups,43 gms
+1456,B00004RFKI,Ching's Manchow Soup,10,9,1,5,Soups,15 gms
+1457,B00004RHR5,Knorr Sweet Corn Chicken Soup,55,50,5,5,Soups,42 gms
+1458,B00002N84P,Knorr International Shanghai Hot & Sour Chicken Soup,70,63,7,5,Soups,38 gms
+1459,B00004RFKL,Knorr Hot & Sour Veg Cup-A-Soup,10,9,1,5,Soups,11 gms
+1460,8805000949,Ching's Hot & Sour Instant Soup,10,9,1,5,Soups,15 gms
+1461,B00002N8XH,Mother's Recipe Mango Pickle - Jar,199,134,65,6,Pickles,1 kg
+1462,1888861568,Pravin Mango Pickle,185,149,36,6,Pickles,1 kg
+1463,0975412817,Pravin Mango Pickle Pouch,90,80,10,6,Pickles,500 gms
+1464,1223070743,Shree Siddhivinayak Mango Pickle,90,80,10,6,Pickles,500 gms
+1465,1842104470,Bedekar Mango Pickle,110,92,18,6,Pickles,400 gms
+1466,B00004RC4T,Mother's Recipe Mango Pickle - Pouch,149,90,59,6,Pickles,500 gms
+1467,B00004RFJZ,Kubal Mango Pickle Pouch,50,25,25,6,Pickles,200 gms
+1468,B00002ND6A,Shree Sidhivinayak Lime Pickle,50,40,10,6,Pickles,200 gms
+1469,B00004RKFY,Bedekar Lime Pickle (Sweet),115,96,19,6,Pickles,400 gms
+1470,B00004RFOF,Bedekar Lime Pickle,110,92,18,6,Pickles,400 gms
+1471,9178886023,Mother's Recipe Mixed Pickle Jar,199,135,64,6,Pickles,1 kg
+1472,B00004RFPV,Pravin Mixed Pickle,185,172,13,6,Pickles,1 kg
+1473,B00002N626,Shree Siddhivinayak Mixed Pickle,90,80,10,6,Pickles,500 gms
+1474,B00004RHMX,Mother's Recipe Mixed Pickle Pouch,149,89,60,6,Pickles,500 gms
+1475,B00004RFL6,Kubal Mix Pickle Pouch,50,25,25,6,Pickles,200 gms
+1476,0740794140,Bedekar Mixed Pickle,110,92,18,6,Pickles,400 gms
+1477,0748185259,Pravin Green Chilli Pickle Pouch,50,40,10,6,Pickles,200 gms
+1478,9086500226,Jain DLS Marwadi Mirchi Green Pickle,94,69,25,6,Pickles,400 gms
+1479,B00004R8ZP,Jain DLS Marwadi Mirchi Red Pickle,118,86,32,6,Pickles,400 gms
+1480,9178887003,Bedekar Green Chilli Pickle,115,96,19,6,Pickles,400 gms
+1481,1059875837,MTR Idli/Dosa/Chilly Chutney Powder,115,99,16,6,Pickles,200 gms
+1482,B00004RKFU,Ruchiraj Special Khatti Mithhi Imli Chutney,35,30,5,6,Pickles,200 gms
+1483,B00004RG90,Ruchira Special Chaupati Pani Puri Chutney,42,36,6,6,Pickles,200 gms
+1484,7539629487,Nasle Shenga (Groundnut) Chutney,50,45,5,6,Pickles,200 gms
+1485,B00002NC5R,Vaidehi Lasun Chutney,44,22,22,6,Pickles,100 gms
+1486,6022600294,Bedekar Garlic Chutney,55,49,6,6,Pickles,100 gms
+1487,9178891396,Bedekar Groundnut (Singdana) Chutney,50,41,9,6,Pickles,100 gms
+1488,B00004RHMW,Bedekar Karala Chutney,50,41,9,6,Pickles,100 gm
+1489,B00004RFMV,Bedekar Linceed (Javas) Chutney,50,38,12,6,Pickles,100 gms
+1490,9178900484,Bedekar Chhunda,115,99,16,6,Pickles,400 gms
